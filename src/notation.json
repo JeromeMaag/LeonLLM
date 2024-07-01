@@ -1,0 +1,50 @@
+{
+  "xLAN": {
+    "notation": "xLAN",
+    "tokens_per_ply": 3,
+    "vocab_size": 76,
+    "pad_token_id": 0,
+    "bos_token_id": 75,
+    "eos_token_id": 74,
+    "token_file": "./src/tokenizer/xlan_tokens.json",
+    "n_positions": 512,
+    "hard_positions_file": "./data/validation/hard_positions/hard_positions.json",
+    "board_state_file": "./data/validation/board_state/board_state_positions.json"
+  },
+  "xLANplus": {
+    "notation": "xLANplus",
+    "tokens_per_ply": 4,
+    "vocab_size": 82,
+    "pad_token_id": 0,
+    "bos_token_id": 75,
+    "eos_token_id": 74,
+    "token_file": "./src/tokenizer/xlanplus_tokens.json",
+    "n_positions": 1024,
+    "hard_positions_file": "./data/validation/hard_positions/hard_positions_xlanplus.json",
+    "board_state_file": "./data/validation/board_state/board_state_positions_xlanplus.json"
+  },
+  "xLANchk": {
+    "notation": "xLANchk",
+    "tokens_per_ply": 4,
+    "vocab_size": 79,
+    "pad_token_id": 0,
+    "bos_token_id": 75,
+    "eos_token_id": 74,
+    "token_file": "./src/tokenizer/xlanchk_tokens.json",
+    "n_positions": 1024,
+    "hard_positions_file": "./data/validation/hard_positions/hard_positions_xlanchk.json",
+    "board_state_file": "./data/validation/board_state/board_state_positions_xlanchk.json"
+  },
+  "xLANcap": {
+    "notation": "xLANcap",
+    "tokens_per_ply": 4,
+    "vocab_size": 78,
+    "pad_token_id": 0,
+    "bos_token_id": 75,
+    "eos_token_id": 74,
+    "token_file": "./src/tokenizer/xlancap_tokens.json",
+    "n_positions": 1024,
+    "hard_positions_file": "./data/validation/hard_positions/hard_positions_xlancap.json",
+    "board_state_file": "./data/validation/board_state/board_state_positions_xlancap.json"
+  }
+}

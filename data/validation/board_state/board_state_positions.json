@@ -1,0 +1,2098 @@
+[
+  {
+    "id": 0,
+    "board_state": "Pe2e4 Pd7d5 Pe4d5 Qd8d6 Nb1c3 Qd6h6 Pd2d3 Qh6a6 Bc1f4 Pc7c6 Pd5c6 Qa6c6 Bf4e5 Pf7f6 Be5d4 Qc6c5 Bd4c5 Nb8c6 Bc5e3 Ng8h6 Ph2h3 Nh6g4 Ph3h4 Ng4h6 Ph4h5 Nh6g4 Pf2f3 Ng4e3 Ng1e2 Ne3d1 Ke1d1 Nc6d4 Kd1e1 Nd4e2 Bf1e2 Pe7e5 Nc3e4 Pg7g6 Ph5g6 Ph7g6 Rh1h8 Ke8e7 Rh8h6 Bf8h6 Pf3f4 Pe5f4 Be2f3 Bh6g5 Ne4g5 Pf6g5 Pg2g3 Pf4g3 Bf3g4 Ke7d6 Pc2c4 Pb7b6 Ra1d1 Bc8b7 Ke1d2 Pb6b5 Rd1e1 Pb5c4 Pd3c4 Kd6c5 K",
+    "legal_positions": [
+      "d2"
+    ],
+    "piece": "K",
+    "tag": "King"
+  },
+  {
+    "id": 1,
+    "board_state": "Pe2e4 Pd7d5 Pe4d5 Qd8d6 Nb1c3 Qd6h6 Pd2d3 Qh6a6 Bc1f4 Pc7c6 Pd5c6 Qa6c6 Bf4e5 Pf7f6 Be5d4 Qc6c5 Bd4c5 Nb8c6 Bc5e3 Ng8h6 Ph2h3 Nh6g4 Ph3h4 Ng4h6 Ph4h5 Nh6g4 Pf2f3 Ng4e3 Ng1e2 Ne3d1 Ke1d1 Nc6d4 Kd1e1 Nd4e2 Bf1e2 Pe7e5 Nc3e4 Pg7g6 Ph5g6 Ph7g6 Rh1h8 Ke8e7 Rh8h6 Bf8h6 Pf3f4 Pe5f4 Be2f3 Bh6g5 Ne4g5 Pf6g5 Pg2g3 Pf4g3 Bf3g4 Ke7d6 Pc2c4 Pb7b6 Ra1d1 Bc8b7 Ke1d2 Pb6b5 Rd1e1 Pb5c4 Pd3c4 Kd6c5 Kd2",
+    "legal_positions": [
+      "e3",
+      "d3",
+      "c3",
+      "e2",
+      "c2",
+      "d1",
+      "c1"
+    ],
+    "piece": "Kd2",
+    "tag": "King"
+  },
+  {
+    "id": 2,
+    "board_state": "Pd2d4 Pe7e5 Pe2e4 Pd7d5 Pd4e5 Pd5e4 Ng1f3 Ng8f6 Bc1e3 Pe4f3 Pg2f3 Bf8c5 Qd1d8 Ke8d8 Bf1d3 Kd8e8 K",
+    "legal_positions": [
+      "e1"
+    ],
+    "piece": "K",
+    "tag": "King"
+  },
+  {
+    "id": 3,
+    "board_state": "Pd2d4 Pe7e5 Pe2e4 Pd7d5 Pd4e5 Pd5e4 Ng1f3 Ng8f6 Bc1e3 Pe4f3 Pg2f3 Bf8c5 Qd1d8 Ke8d8 Bf1d3 Kd8e8 Ke1",
+    "legal_positions": [
+      "e2",
+      "d2",
+      "f1",
+      "d1",
+      "g1"
+    ],
+    "piece": "Ke1",
+    "tag": "King"
+  },
+  {
+    "id": 4,
+    "board_state": "Pd2d3 Pd7d5 Bc1f4 Ng8f6 Ng1f3 Pc7c5 Nb1c3 Pc5c4 Pd3c4 Bc8g4 Nc3d5 Nf6d5 Nf3e5 Nd5c3 Pb2c3 Qd8d1 Ke1d1 Pe7e6 Bf4e3 Nb8d7 Pc4c5 Bg4h5 Pc3c4 Ra8c8 Pg2g3 Bh5g4 K",
+    "legal_positions": [
+      "d1"
+    ],
+    "piece": "K",
+    "tag": "King"
+  },
+  {
+    "id": 5,
+    "board_state": "Pd2d3 Pd7d5 Bc1f4 Ng8f6 Ng1f3 Pc7c5 Nb1c3 Pc5c4 Pd3c4 Bc8g4 Nc3d5 Nf6d5 Nf3e5 Nd5c3 Pb2c3 Qd8d1 Ke1d1 Pe7e6 Bf4e3 Nb8d7 Pc4c5 Bg4h5 Pc3c4 Ra8c8 Pg2g3 Bh5g4 Kd1",
+    "legal_positions": [
+      "d2",
+      "e1",
+      "c1"
+    ],
+    "piece": "Kd1",
+    "tag": "King"
+  },
+  {
+    "id": 6,
+    "board_state": "Pc2c4 Pg7g5 Pb2b3 Pd7d5 Ng1f3 K",
+    "legal_positions": [
+      "e8"
+    ],
+    "piece": "K",
+    "tag": "KingAsBlack"
+  },
+  {
+    "id": 7,
+    "board_state": "Pc2c4 Pg7g5 Pb2b3 Pd7d5 Ng1f3 Ke8",
+    "legal_positions": [
+      "d7"
+    ],
+    "piece": "Ke8",
+    "tag": "KingAsBlack"
+  },
+  {
+    "id": 8,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nf3d2 K",
+    "legal_positions": [
+      "e8"
+    ],
+    "piece": "K",
+    "tag": "KingAsBlack"
+  },
+  {
+    "id": 9,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nf3d2 Ke8",
+    "legal_positions": [
+      "d8"
+    ],
+    "piece": "Ke8",
+    "tag": "KingAsBlack"
+  },
+  {
+    "id": 10,
+    "board_state": "Ph2h3 Pg7g5 Pd2d3 Pc7c5 Qd1d2 Ng8h6 K",
+    "legal_positions": [
+      "e1"
+    ],
+    "piece": "K",
+    "tag": "KingUncommonOpening"
+  },
+  {
+    "id": 11,
+    "board_state": "Ph2h3 Pg7g5 Pd2d3 Pc7c5 Qd1d2 Ng8h6 Ke1",
+    "legal_positions": [
+      "d1"
+    ],
+    "piece": "Ke1",
+    "tag": "KingUncommonOpening"
+  },
+  {
+    "id": 12,
+    "board_state": "Pe2e4 Pe7e5 Bf1e2 Bf8a3 Pb2b3 Ng8f6 K",
+    "legal_positions": [
+      "e1"
+    ],
+    "piece": "K",
+    "tag": "KingUncommonOpening"
+  },
+  {
+    "id": 13,
+    "board_state": "Pe2e4 Pe7e5 Bf1e2 Bf8a3 Pb2b3 Ng8f6 Ke1",
+    "legal_positions": [
+      "f1"
+    ],
+    "piece": "Ke1",
+    "tag": "KingUncommonOpening"
+  },
+  {
+    "id": 14,
+    "board_state": "Pe2e4 Pd7d5 Ph2h3 Bc8f5 Pe4f5 Qd8d7 K",
+    "legal_positions": [
+      "e1"
+    ],
+    "piece": "K",
+    "tag": "KingUncommonOpening"
+  },
+  {
+    "id": 15,
+    "board_state": "Pe2e4 Pd7d5 Ph2h3 Bc8f5 Pe4f5 Qd8d7 Ke1",
+    "legal_positions": [
+      "e2"
+    ],
+    "piece": "Ke1",
+    "tag": "KingUncommonOpening"
+  },
+  {
+    "id": 16,
+    "board_state": "Pg2g4 Pf7f6 Pe2e3 Nb8a6 K",
+    "legal_positions": [
+      "e1"
+    ],
+    "piece": "K",
+    "tag": "KingUncommonOpening"
+  },
+  {
+    "id": 17,
+    "board_state": "Pg2g4 Pf7f6 Pe2e3 Nb8a6 Ke1",
+    "legal_positions": [
+      "e2"
+    ],
+    "piece": "Ke1",
+    "tag": "KingUncommonOpening"
+  },
+  {
+    "id": 18,
+    "board_state": "Pd2d4 Pa7a6 Pc2c4 Nb8c6 Ng1f3 Ph7h6 Nb1c3 Pg7g5 Pd4d5 Nc6b4 Pa2a3 Pc7c5 Pa3b4 Pd7d6 Pb4c5 Pe7e6 Pe2e4 Pe6e5 Pg2g3 Pf7f5 Pc5d6 Bf8d6 Pe4f5 Pg5g4 Nf3h4 Ng8e7 Bc1e3 Ne7f5 Nh4f5 Ke8f8 Bf1d3 Qd8c7 Be3h6 Kf8g8 Qd1g4 Kg8f7 Nc3b5 Bd6b4 Ke1d1 Qc7b6 Qg4g7 Kf7e8 Bh6g5 Pe5e4 Pd5d6 Qb6d8 Nb5c7 Qd8c7 Qg7h8 Ke8f7 Qh8g7 Kf7e8 Qg7g8 Ke8d7 Qg8f7 Kd7c6 Nf5e7 Qc7e7 Qf7d5 Kc6d7 Pd6e7 Bb4d6 Bd3e2 Pb7b6 Qe7e8 Kd7e8 Qd5d6 Ke8f7 Be2h5 Kf7g7 Qd6g6 Kg7f8 Qg6d6 Kf8g7 Qd6g6 Kg7f8 Bg5f4 Bc8g4 Kd1c1 Ra8a7 Ra1a5 Bg4e6 Qg6e8 Kf8g7 Ra5d5 Ra7f7 Bf4e5 Rf7f6 Qe8e6 Kg7h6 Qe6f6 Kh6h5 Pf2f4 Kh5g4 Qf6f5 Kg4f5 Be5d4 Kf5e6 Rh1f1 Pb6b5 Pc4b5 Ke6d5 K",
+    "legal_positions": [
+      "c1"
+    ],
+    "piece": "K",
+    "tag": "KingLategame"
+  },
+  {
+    "id": 19,
+    "board_state": "Pd2d4 Pa7a6 Pc2c4 Nb8c6 Ng1f3 Ph7h6 Nb1c3 Pg7g5 Pd4d5 Nc6b4 Pa2a3 Pc7c5 Pa3b4 Pd7d6 Pb4c5 Pe7e6 Pe2e4 Pe6e5 Pg2g3 Pf7f5 Pc5d6 Bf8d6 Pe4f5 Pg5g4 Nf3h4 Ng8e7 Bc1e3 Ne7f5 Nh4f5 Ke8f8 Bf1d3 Qd8c7 Be3h6 Kf8g8 Qd1g4 Kg8f7 Nc3b5 Bd6b4 Ke1d1 Qc7b6 Qg4g7 Kf7e8 Bh6g5 Pe5e4 Pd5d6 Qb6d8 Nb5c7 Qd8c7 Qg7h8 Ke8f7 Qh8g7 Kf7e8 Qg7g8 Ke8d7 Qg8f7 Kd7c6 Nf5e7 Qc7e7 Qf7d5 Kc6d7 Pd6e7 Bb4d6 Bd3e2 Pb7b6 Qe7e8 Kd7e8 Qd5d6 Ke8f7 Be2h5 Kf7g7 Qd6g6 Kg7f8 Qg6d6 Kf8g7 Qd6g6 Kg7f8 Bg5f4 Bc8g4 Kd1c1 Ra8a7 Ra1a5 Bg4e6 Qg6e8 Kf8g7 Ra5d5 Ra7f7 Bf4e5 Rf7f6 Qe8e6 Kg7h6 Qe6f6 Kh6h5 Pf2f4 Kh5g4 Qf6f5 Kg4f5 Be5d4 Kf5e6 Rh1f1 Pb6b5 Pc4b5 Ke6d5 Kc1",
+    "legal_positions": [
+      "d2",
+      "c2",
+      "d1",
+      "b1"
+    ],
+    "piece": "Kc1",
+    "tag": "KingLategame"
+  },
+  {
+    "id": 20,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Pe2e3 Pe7e6 Ng1e2 Ng8e7 Pd2d4 Pc5d4 Pe3d4 Nc6a5 Pb2b3 Pd7d5 Pc4d5 Pe6d5 Bc1g5 Pf7f6 Bg5e3 Bc8g4 Qd1d2 Bg4e6 Ke1g1 Pg6g5 Pf2f4 Ph7h6 Ph2h3 Na5c6 Pg3g4 Be6f7 Nc3a4 Qd8d6 Ra1c1 Ke8g8 Pf4f5 Ra8e8 Rf1d1 Qd6d7 Ne2c3 Pb7b6 Nc3b5 Ph6h5 Be3f2 Nc6b8 Nb5a3 Re8c8 Na4c3 Rf8e8 Bf2g3 Ph5h4 Bg3e5 Pf6e5 Pd4e5 Ne7f5 Pg4f5 Qd7f5 Bg2d5 Bg7e5 Na3c4 Be5f4 Qd2c2 Qf5c2 Bd5g2 Bf4c1 Rd1f1 Qc2c3 Kg1h1 Rc8c4 Pb3c4 Qc3g3 Rf1c1 Re8e2 Rc1g1 Re2e3 Bg2f1 Pg5g4 Rg1g3 Ph4g3 Ph3g4 Re3e4 K",
+    "legal_positions": [
+      "h1"
+    ],
+    "piece": "K",
+    "tag": "KingLategame"
+  },
+  {
+    "id": 21,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Pe2e3 Pe7e6 Ng1e2 Ng8e7 Pd2d4 Pc5d4 Pe3d4 Nc6a5 Pb2b3 Pd7d5 Pc4d5 Pe6d5 Bc1g5 Pf7f6 Bg5e3 Bc8g4 Qd1d2 Bg4e6 Ke1g1 Pg6g5 Pf2f4 Ph7h6 Ph2h3 Na5c6 Pg3g4 Be6f7 Nc3a4 Qd8d6 Ra1c1 Ke8g8 Pf4f5 Ra8e8 Rf1d1 Qd6d7 Ne2c3 Pb7b6 Nc3b5 Ph6h5 Be3f2 Nc6b8 Nb5a3 Re8c8 Na4c3 Rf8e8 Bf2g3 Ph5h4 Bg3e5 Pf6e5 Pd4e5 Ne7f5 Pg4f5 Qd7f5 Bg2d5 Bg7e5 Na3c4 Be5f4 Qd2c2 Qf5c2 Bd5g2 Bf4c1 Rd1f1 Qc2c3 Kg1h1 Rc8c4 Pb3c4 Qc3g3 Rf1c1 Re8e2 Rc1g1 Re2e3 Bg2f1 Pg5g4 Rg1g3 Ph4g3 Ph3g4 Re3e4 Kh1",
+    "legal_positions": [
+      "g2",
+      "g1"
+    ],
+    "piece": "Kh1",
+    "tag": "KingLategame"
+  },
+  {
+    "id": 22,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 K",
+    "legal_positions": [
+      "e2"
+    ],
+    "piece": "K",
+    "tag": "KingLategame"
+  },
+  {
+    "id": 23,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 Ke2",
+    "legal_positions": [
+      "d2",
+      "f1",
+      "e1",
+      "d1"
+    ],
+    "piece": "Ke2",
+    "tag": "KingLategame"
+  },
+  {
+    "id": 24,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nb1d2 Nb8c6 Nf3d4 Nc6b4 Ke1g1 Ke8c8 K",
+    "legal_positions": [
+      "g1"
+    ],
+    "piece": "K",
+    "tag": "KingOneLegalMove"
+  },
+  {
+    "id": 25,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nb1d2 Nb8c6 Nf3d4 Nc6b4 Ke1g1 Ke8c8 Kg1",
+    "legal_positions": [
+      "h1"
+    ],
+    "piece": "Kg1",
+    "tag": "KingOneLegalMove"
+  },
+  {
+    "id": 26,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Qd8d7 Pb2b3 Pb7b5 Nc3d5 Ke8g8 Bc1b2 Pe7e5 Pd3d4 Pe5d4 Nd5f6 Bg7f6 Pe3d4 Bf6g7 Pd4c5 Pd6c5 Bb2g7 Kg8g7 Rb1c1 Nc6b4 Pc4b5 Qd7b5 Ne2c3 Qb5d7 Qd1e2 Bc8b7 Bg2b7 Rb8b7 Rf1d1 Qd7e7 Qe2f3 Rb7d7 Kg1g2 Rd7d1 Rc1d1 Rf8d8 Rd1d8 Qe7d8 Pa2a3 Nb4d3 Qf3e4 Qd8d6 Kg2f1 Pa6a5 Nc3d5 Nd3c1 Qe4c4 Qd6e5 Qc4c1 Qe5d5 Qc1c3 Qd5d4 Qc3d4 Pc5d4 Kf1e1 Pd4d3 Ph2h4 Pf7f5 Pf2f3 Kg7f8 Ke1f2 Kf8g7 Pa3a4 Kg7f7 Pf3f4 Pd3d2 Kf2e2 Kf7e7 Pb3b4 Pa5b4 Ph4h5 Pg6h5 Ke2d2 Ke7d6 Kd2c2 Kd6c5 Kc2b3 Ph7h6 Pa4a5 Kc5b5 Pa5a6 Kb5a6 Kb3b4 Ka6b6 Kb4c4 Kb6c6 Kc4d4 Kc6d6 Kd4c4 Kd6c6 Kc4d3 Kc6d7 Kd3d4 Kd7d8 Kd4c5 Kd8d7 Kc5b5 Ph5h4 Kb5b6 Kd7e7 Kb6c5 Ph4g3 Kc5c4 Pg3g2 Kc4b4 Qg2g1 Kb4b3 Qg1e3 Kb3c4 Ke7d6 Kc4b4 Kd6d5 Kb4b5 Qe3b6 K",
+    "legal_positions": [
+      "b5"
+    ],
+    "piece": "K",
+    "tag": "KingChecks"
+  },
+  {
+    "id": 27,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Qd8d7 Pb2b3 Pb7b5 Nc3d5 Ke8g8 Bc1b2 Pe7e5 Pd3d4 Pe5d4 Nd5f6 Bg7f6 Pe3d4 Bf6g7 Pd4c5 Pd6c5 Bb2g7 Kg8g7 Rb1c1 Nc6b4 Pc4b5 Qd7b5 Ne2c3 Qb5d7 Qd1e2 Bc8b7 Bg2b7 Rb8b7 Rf1d1 Qd7e7 Qe2f3 Rb7d7 Kg1g2 Rd7d1 Rc1d1 Rf8d8 Rd1d8 Qe7d8 Pa2a3 Nb4d3 Qf3e4 Qd8d6 Kg2f1 Pa6a5 Nc3d5 Nd3c1 Qe4c4 Qd6e5 Qc4c1 Qe5d5 Qc1c3 Qd5d4 Qc3d4 Pc5d4 Kf1e1 Pd4d3 Ph2h4 Pf7f5 Pf2f3 Kg7f8 Ke1f2 Kf8g7 Pa3a4 Kg7f7 Pf3f4 Pd3d2 Kf2e2 Kf7e7 Pb3b4 Pa5b4 Ph4h5 Pg6h5 Ke2d2 Ke7d6 Kd2c2 Kd6c5 Kc2b3 Ph7h6 Pa4a5 Kc5b5 Pa5a6 Kb5a6 Kb3b4 Ka6b6 Kb4c4 Kb6c6 Kc4d4 Kc6d6 Kd4c4 Kd6c6 Kc4d3 Kc6d7 Kd3d4 Kd7d8 Kd4c5 Kd8d7 Kc5b5 Ph5h4 Kb5b6 Kd7e7 Kb6c5 Ph4g3 Kc5c4 Pg3g2 Kc4b4 Qg2g1 Kb4b3 Qg1e3 Kb3c4 Ke7d6 Kc4b4 Kd6d5 Kb4b5 Qe3b6 Kb5",
+    "legal_positions": [
+      "b6",
+      "a4"
+    ],
+    "piece": "Kb5",
+    "tag": "KingChecks"
+  },
+  {
+    "id": 28,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Ke1f1 Bd7b5 Be2b5 Qd5b5 K",
+    "legal_positions": [
+      "f1"
+    ],
+    "piece": "K",
+    "tag": "KingChecks"
+  },
+  {
+    "id": 29,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Ke1f1 Bd7b5 Be2b5 Qd5b5 Kf1",
+    "legal_positions": [
+      "g1",
+      "e1"
+    ],
+    "piece": "Kf1",
+    "tag": "KingChecks"
+  },
+  {
+    "id": 30,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 K",
+    "legal_positions": [
+      "c1"
+    ],
+    "piece": "K",
+    "tag": "KingChecks"
+  },
+  {
+    "id": 31,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 Kc1",
+    "legal_positions": [
+      "c2",
+      "b1"
+    ],
+    "piece": "Kc1",
+    "tag": "KingChecks"
+  },
+  {
+    "id": 32,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Ke1f1 Bd7b5 Be2b5 Pc7c6 Nf3g1 Qd5b5 K",
+    "legal_positions": [
+      "f1"
+    ],
+    "piece": "K",
+    "tag": "KingChecks"
+  },
+  {
+    "id": 33,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Ke1f1 Bd7b5 Be2b5 Pc7c6 Nf3g1 Qd5b5 Kf1",
+    "legal_positions": [
+      "e1"
+    ],
+    "piece": "Kf1",
+    "tag": "KingChecks"
+  },
+  {
+    "id": 34,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Ke1f1 Bd7b5 Be2b5 Pc7c6 Nf3e1 Nb8d7 Qd1e2 Qd5g2 K",
+    "legal_positions": [
+      "f1"
+    ],
+    "piece": "K",
+    "tag": "KingChecks"
+  },
+  {
+    "id": 35,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Ke1f1 Bd7b5 Be2b5 Pc7c6 Nf3e1 Nb8d7 Qd1e2 Qd5g2 Kf1",
+    "legal_positions": [
+      "g2"
+    ],
+    "piece": "Kf1",
+    "tag": "KingChecks"
+  },
+  {
+    "id": 36,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 K",
+    "legal_positions": [
+      "e1"
+    ],
+    "piece": "K",
+    "tag": "KingCastle"
+  },
+  {
+    "id": 37,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1",
+    "legal_positions": [
+      "d1",
+      "c1"
+    ],
+    "piece": "Ke1",
+    "tag": "KingCastle"
+  },
+  {
+    "id": 38,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 K",
+    "legal_positions": [
+      "e1"
+    ],
+    "piece": "K",
+    "tag": "KingCastle"
+  },
+  {
+    "id": 39,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Ke1",
+    "legal_positions": [
+      "f1",
+      "g1"
+    ],
+    "piece": "Ke1",
+    "tag": "KingCastle"
+  },
+  {
+    "id": 40,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Pc3c4 Nc6b4 Qb3c3 Pe5e4 Pb2b3 Pc7c5 Be3d4 Ng6h4 Q",
+    "legal_positions": [
+      "c3"
+    ],
+    "piece": "Q",
+    "tag": "Queen"
+  },
+  {
+    "id": 41,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Pc3c4 Nc6b4 Qb3c3 Pe5e4 Pb2b3 Pc7c5 Be3d4 Ng6h4 Qc3",
+    "legal_positions": [
+      "b4",
+      "c2",
+      "b2",
+      "c1"
+    ],
+    "piece": "Qc3",
+    "tag": "Queen"
+  },
+  {
+    "id": 42,
+    "board_state": "Pc2c4 Pg7g5 Pb2b3 Pd7d5 Ng1f3 Q",
+    "legal_positions": [
+      "d8"
+    ],
+    "piece": "Q",
+    "tag": "QueenAsBlack"
+  },
+  {
+    "id": 43,
+    "board_state": "Pc2c4 Pg7g5 Pb2b3 Pd7d5 Ng1f3 Qd8",
+    "legal_positions": [
+      "d7",
+      "d6"
+    ],
+    "piece": "Qd8",
+    "tag": "QueenAsBlack"
+  },
+  {
+    "id": 44,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nf3d2 Q",
+    "legal_positions": [
+      "d5"
+    ],
+    "piece": "Q",
+    "tag": "QueenAsBlack"
+  },
+  {
+    "id": 45,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nf3d2 Qd5",
+    "legal_positions": [
+      "d6",
+      "c6",
+      "h5",
+      "g5",
+      "f5",
+      "e5",
+      "c5",
+      "b5",
+      "a5",
+      "e4",
+      "d4",
+      "c4",
+      "f3",
+      "d3",
+      "b3",
+      "g2",
+      "d2",
+      "a2"
+    ],
+    "piece": "Qd5",
+    "tag": "QueenAsBlack"
+  },
+  {
+    "id": 46,
+    "board_state": "Ph2h3 Pg7g5 Pd2d3 Pc7c5 Qd1d2 Ng8h6 Q",
+    "legal_positions": [
+      "d2"
+    ],
+    "piece": "Q",
+    "tag": "QueenUncommonOpening"
+  },
+  {
+    "id": 47,
+    "board_state": "Ph2h3 Pg7g5 Pd2d3 Pc7c5 Qd1d2 Ng8h6 Qd2",
+    "legal_positions": [
+      "g5",
+      "a5",
+      "f4",
+      "b4",
+      "e3",
+      "c3",
+      "d1"
+    ],
+    "piece": "Qd2",
+    "tag": "QueenUncommonOpening"
+  },
+  {
+    "id": 48,
+    "board_state": "Pe2e4 Pd7d5 Ph2h3 Bc8f5 Pe4f5 Qd8d7 Q",
+    "legal_positions": [
+      "d1"
+    ],
+    "piece": "Q",
+    "tag": "QueenUncommonOpening"
+  },
+  {
+    "id": 49,
+    "board_state": "Pe2e4 Pd7d5 Ph2h3 Bc8f5 Pe4f5 Qd8d7 Qd1",
+    "legal_positions": [
+      "h5",
+      "g4",
+      "f3",
+      "e2"
+    ],
+    "piece": "Qd1",
+    "tag": "QueenUncommonOpening"
+  },
+  {
+    "id": 50,
+    "board_state": "Pg2g4 Pf7f6 Pe2e3 Nb8a6 Q",
+    "legal_positions": [
+      "d1"
+    ],
+    "piece": "Q",
+    "tag": "QueenUncommonOpening"
+  },
+  {
+    "id": 51,
+    "board_state": "Pg2g4 Pf7f6 Pe2e3 Nb8a6 Qd1",
+    "legal_positions": [
+      "f3",
+      "e2"
+    ],
+    "piece": "Qd1",
+    "tag": "QueenUncommonOpening"
+  },
+  {
+    "id": 52,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 Q",
+    "legal_positions": [
+      "b7"
+    ],
+    "piece": "Q",
+    "tag": "QueenCanPromote"
+  },
+  {
+    "id": 53,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 Qb7",
+    "legal_positions": [
+      "b8"
+    ],
+    "piece": "Qb7",
+    "tag": "QueenCanPromote"
+  },
+  {
+    "id": 54,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 Pe2e4 Pd5e4 Nf3d4 Nc6e5 Pc4c5 Pb7b6 Pc5b6 Pc7c6 Qc2e4 Qd8d6 Pb6b7 Bc8e6 Nd4c6 Ra8a7 Qb7b8 Ke8d7 Qb8b7 Kd7e8 Q",
+    "legal_positions": [
+      "b7",
+      "e4"
+    ],
+    "piece": "Q",
+    "tag": "TwoQueensOfOnePlayer"
+  },
+  {
+    "id": 55,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 Pe2e4 Pd5e4 Nf3d4 Nc6e5 Pc4c5 Pb7b6 Pc5b6 Pc7c6 Qc2e4 Qd8d6 Pb6b7 Bc8e6 Nd4c6 Ra8a7 Qb7b8 Ke8d7 Qb8b7 Kd7e8 Qb7",
+    "legal_positions": [
+      "c8",
+      "b8",
+      "a8",
+      "g7",
+      "f7",
+      "e7",
+      "d7",
+      "c7",
+      "a7",
+      "b6",
+      "a6",
+      "b5",
+      "b4"
+    ],
+    "piece": "Qb7",
+    "tag": "TwoQueensOfOnePlayer"
+  },
+  {
+    "id": 56,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 Qb7b8 Bc5b6 Q",
+    "legal_positions": [
+      "b8"
+    ],
+    "piece": "Q",
+    "tag": "PawnToQueenPromoted"
+  },
+  {
+    "id": 57,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 Qb7b8 Bc5b6 Qb8",
+    "legal_positions": [
+      "d8",
+      "c8",
+      "a8",
+      "c7",
+      "b7",
+      "a7",
+      "d6",
+      "b6"
+    ],
+    "piece": "Qb8",
+    "tag": "PawnToQueenPromoted"
+  },
+  {
+    "id": 58,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Pc3c4 Nc6b4 Qb3c3 Pe5e4 Nf3h4 Nb4c6 Pd3d4 Bc8d7 Pd4d5 Nc6e7 Be3b6 Pa7b6 Q",
+    "legal_positions": [
+      "c3"
+    ],
+    "piece": "Q",
+    "tag": "ManyQueenMoves"
+  },
+  {
+    "id": 59,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Pc3c4 Nc6b4 Qb3c3 Pe5e4 Nf3h4 Nb4c6 Pd3d4 Bc8d7 Pd4d5 Nc6e7 Be3b6 Pa7b6 Qc3",
+    "legal_positions": [
+      "g7",
+      "f6",
+      "e5",
+      "a5",
+      "d4",
+      "b4",
+      "h3",
+      "g3",
+      "f3",
+      "e3",
+      "d3",
+      "b3",
+      "a3",
+      "c2",
+      "c1"
+    ],
+    "piece": "Qc3",
+    "tag": "ManyQueenMoves"
+  },
+  {
+    "id": 60,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Ke1f1 Bd7b5 Be2b5 Qd5b5 Q",
+    "legal_positions": [
+      "d1"
+    ],
+    "piece": "Q",
+    "tag": "QueenNeedsToBlock"
+  },
+  {
+    "id": 61,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Ke1f1 Bd7b5 Be2b5 Qd5b5 Qd1",
+    "legal_positions": [
+      "d3",
+      "e2"
+    ],
+    "piece": "Qd1",
+    "tag": "QueenNeedsToBlock"
+  },
+  {
+    "id": 62,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Qc2d2 Bf8b4 Q",
+    "legal_positions": [
+      "d2"
+    ],
+    "piece": "Q",
+    "tag": "QueenIsPinned"
+  },
+  {
+    "id": 63,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Qc2d2 Bf8b4 Qd2",
+    "legal_positions": [
+      "b4",
+      "c3"
+    ],
+    "piece": "Qd2",
+    "tag": "QueenIsPinned"
+  },
+  {
+    "id": 64,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Q",
+    "legal_positions": [
+      "c2"
+    ],
+    "piece": "Q",
+    "tag": "QueenOnlyDiagonalMove"
+  },
+  {
+    "id": 65,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Qc2",
+    "legal_positions": [
+      "h7",
+      "g6",
+      "f5",
+      "e4",
+      "a4",
+      "d3",
+      "b3",
+      "d1",
+      "b1"
+    ],
+    "piece": "Qc2",
+    "tag": "QueenOnlyDiagonalMove"
+  },
+  {
+    "id": 66,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7d5 Nf3e5 Qd8h4 Qc2d3 Qh4g4 Ne5c6 Qg4e2 Q",
+    "legal_positions": [
+      "d3"
+    ],
+    "piece": "Q",
+    "tag": "QueenCanOnlyCapture"
+  },
+  {
+    "id": 67,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7d5 Nf3e5 Qd8h4 Qc2d3 Qh4g4 Ne5c6 Qg4e2 Qd3",
+    "legal_positions": [
+      "e2"
+    ],
+    "piece": "Qd3",
+    "tag": "QueenCanOnlyCapture"
+  },
+  {
+    "id": 68,
+    "board_state": "Pe2e4 Pd7d5 Pe4d5 Qd8d6 Nb1c3 Qd6h6 Pd2d3 Qh6a6 Bc1f4 Pc7c6 Pd5c6 Qa6c6 Bf4e5 Pf7f6 Be5d4 Qc6c5 Bd4c5 Nb8c6 Bc5e3 Ng8h6 Ph2h3 Nh6g4 Ph3h4 Ng4h6 Ph4h5 Nh6g4 Pf2f3 Ng4e3 Ng1e2 Ne3d1 Ke1d1 Nc6d4 Kd1e1 Nd4e2 Bf1e2 Pe7e5 Nc3e4 Pg7g6 Ph5g6 Ph7g6 Rh1h8 Ke8e7 Rh8h6 Bf8h6 Pf3f4 Pe5f4 Be2f3 Bh6g5 Ne4g5 Pf6g5 Pg2g3 Pf4g3 Bf3g4 Ke7d6 Pc2c4 Pb7b6 Ra1d1 Bc8b7 Ke1d2 Pb6b5 Rd1e1 Pb5c4 Pd3c4 Kd6c5 P",
+    "legal_positions": [
+      "b2",
+      "a2"
+    ],
+    "piece": "P",
+    "tag": "Pawn"
+  },
+  {
+    "id": 69,
+    "board_state": "Pe2e4 Pd7d5 Pe4d5 Qd8d6 Nb1c3 Qd6h6 Pd2d3 Qh6a6 Bc1f4 Pc7c6 Pd5c6 Qa6c6 Bf4e5 Pf7f6 Be5d4 Qc6c5 Bd4c5 Nb8c6 Bc5e3 Ng8h6 Ph2h3 Nh6g4 Ph3h4 Ng4h6 Ph4h5 Nh6g4 Pf2f3 Ng4e3 Ng1e2 Ne3d1 Ke1d1 Nc6d4 Kd1e1 Nd4e2 Bf1e2 Pe7e5 Nc3e4 Pg7g6 Ph5g6 Ph7g6 Rh1h8 Ke8e7 Rh8h6 Bf8h6 Pf3f4 Pe5f4 Be2f3 Bh6g5 Ne4g5 Pf6g5 Pg2g3 Pf4g3 Bf3g4 Ke7d6 Pc2c4 Pb7b6 Ra1d1 Bc8b7 Ke1d2 Pb6b5 Rd1e1 Pb5c4 Pd3c4 Kd6c5 Pb2",
+    "legal_positions": [
+      "b3",
+      "b4"
+    ],
+    "piece": "Pb2",
+    "tag": "Pawn"
+  },
+  {
+    "id": 70,
+    "board_state": "Pd2d4 Pe7e5 Pe2e4 Pd7d5 Pd4e5 Pd5e4 Ng1f3 Ng8f6 Bc1e3 Pe4f3 Pg2f3 Bf8c5 Qd1d8 Ke8d8 Bf1d3 Kd8e8 P",
+    "legal_positions": [
+      "e5",
+      "f3",
+      "h2",
+      "c2",
+      "b2",
+      "a2"
+    ],
+    "piece": "P",
+    "tag": "Pawn"
+  },
+  {
+    "id": 71,
+    "board_state": "Pd2d4 Pe7e5 Pe2e4 Pd7d5 Pd4e5 Pd5e4 Ng1f3 Ng8f6 Bc1e3 Pe4f3 Pg2f3 Bf8c5 Qd1d8 Ke8d8 Bf1d3 Kd8e8 Pe5",
+    "legal_positions": [
+      "f6",
+      "e6"
+    ],
+    "piece": "Pe5",
+    "tag": "Pawn"
+  },
+  {
+    "id": 72,
+    "board_state": "Pd2d3 Pd7d5 Bc1f4 Ng8f6 Ng1f3 Pc7c5 Nb1c3 Pc5c4 Pd3c4 Bc8g4 Nc3d5 Nf6d5 Nf3e5 Nd5c3 Pb2c3 Qd8d1 Ke1d1 Pe7e6 Bf4e3 Nb8d7 Pc4c5 Bg4h5 Pc3c4 Ra8c8 Pg2g3 Bh5g4 P",
+    "legal_positions": [
+      "c5",
+      "h2",
+      "f2",
+      "c2",
+      "a2"
+    ],
+    "piece": "P",
+    "tag": "Pawn"
+  },
+  {
+    "id": 73,
+    "board_state": "Pd2d3 Pd7d5 Bc1f4 Ng8f6 Ng1f3 Pc7c5 Nb1c3 Pc5c4 Pd3c4 Bc8g4 Nc3d5 Nf6d5 Nf3e5 Nd5c3 Pb2c3 Qd8d1 Ke1d1 Pe7e6 Bf4e3 Nb8d7 Pc4c5 Bg4h5 Pc3c4 Ra8c8 Pg2g3 Bh5g4 Pc5",
+    "legal_positions": [
+      "c6"
+    ],
+    "piece": "Pc5",
+    "tag": "Pawn"
+  },
+  {
+    "id": 74,
+    "board_state": "Pc2c4 Pg7g5 Pb2b3 Pd7d5 Ng1f3 P",
+    "legal_positions": [
+      "d5",
+      "h7",
+      "f7",
+      "e7",
+      "c7",
+      "b7",
+      "a7",
+      "g5"
+    ],
+    "piece": "P",
+    "tag": "PawnAsBlack"
+  },
+  {
+    "id": 75,
+    "board_state": "Pc2c4 Pg7g5 Pb2b3 Pd7d5 Ng1f3 Pd5",
+    "legal_positions": [
+      "c4",
+      "d4"
+    ],
+    "piece": "Pd5",
+    "tag": "PawnAsBlack"
+  },
+  {
+    "id": 76,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nf3d2 P",
+    "legal_positions": [
+      "h7",
+      "g7",
+      "f7",
+      "c7",
+      "b7",
+      "a7",
+      "e6"
+    ],
+    "piece": "P",
+    "tag": "PawnAsBlack"
+  },
+  {
+    "id": 77,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nf3d2 Ph7",
+    "legal_positions": [
+      "h6",
+      "h5"
+    ],
+    "piece": "Ph7",
+    "tag": "PawnAsBlack"
+  },
+  {
+    "id": 78,
+    "board_state": "Ph2h3 Pg7g5 Pd2d3 Pc7c5 Qd1d2 Ng8h6 P",
+    "legal_positions": [
+      "h3",
+      "d3",
+      "g2",
+      "f2",
+      "e2",
+      "c2",
+      "b2",
+      "a2"
+    ],
+    "piece": "P",
+    "tag": "PawnUncommonOpening"
+  },
+  {
+    "id": 79,
+    "board_state": "Ph2h3 Pg7g5 Pd2d3 Pc7c5 Qd1d2 Ng8h6 Ph3",
+    "legal_positions": [
+      "h4"
+    ],
+    "piece": "Ph3",
+    "tag": "PawnUncommonOpening"
+  },
+  {
+    "id": 80,
+    "board_state": "Pe2e4 Pe7e5 Bf1e2 Bf8a3 Pb2b3 Ng8f6 P",
+    "legal_positions": [
+      "b3",
+      "h2",
+      "g2",
+      "f2",
+      "d2",
+      "c2"
+    ],
+    "piece": "P",
+    "tag": "PawnUncommonOpening"
+  },
+  {
+    "id": 81,
+    "board_state": "Pe2e4 Pe7e5 Bf1e2 Bf8a3 Pb2b3 Ng8f6 Pb3",
+    "legal_positions": [
+      "b4"
+    ],
+    "piece": "Pb3",
+    "tag": "PawnUncommonOpening"
+  },
+  {
+    "id": 82,
+    "board_state": "Pe2e4 Pd7d5 Ph2h3 Bc8f5 Pe4f5 Qd8d7 P",
+    "legal_positions": [
+      "f5",
+      "h3",
+      "g2",
+      "f2",
+      "d2",
+      "c2",
+      "b2",
+      "a2"
+    ],
+    "piece": "P",
+    "tag": "PawnUncommonOpening"
+  },
+  {
+    "id": 83,
+    "board_state": "Pe2e4 Pd7d5 Ph2h3 Bc8f5 Pe4f5 Qd8d7 Pf5",
+    "legal_positions": [
+      "f6"
+    ],
+    "piece": "Pf5",
+    "tag": "PawnUncommonOpening"
+  },
+  {
+    "id": 84,
+    "board_state": "Pg2g4 Pf7f6 Pe2e3 Nb8a6 P",
+    "legal_positions": [
+      "g4",
+      "e3",
+      "h2",
+      "f2",
+      "d2",
+      "c2",
+      "b2",
+      "a2"
+    ],
+    "piece": "P",
+    "tag": "PawnUncommonOpening"
+  },
+  {
+    "id": 85,
+    "board_state": "Pg2g4 Pf7f6 Pe2e3 Nb8a6 Pg4",
+    "legal_positions": [
+      "g5"
+    ],
+    "piece": "Pg4",
+    "tag": "PawnUncommonOpening"
+  },
+  {
+    "id": 86,
+    "board_state": "Pd2d4 Pa7a6 Pc2c4 Nb8c6 Ng1f3 Ph7h6 Nb1c3 Pg7g5 Pd4d5 Nc6b4 Pa2a3 Pc7c5 Pa3b4 Pd7d6 Pb4c5 Pe7e6 Pe2e4 Pe6e5 Pg2g3 Pf7f5 Pc5d6 Bf8d6 Pe4f5 Pg5g4 Nf3h4 Ng8e7 Bc1e3 Ne7f5 Nh4f5 Ke8f8 Bf1d3 Qd8c7 Be3h6 Kf8g8 Qd1g4 Kg8f7 Nc3b5 Bd6b4 Ke1d1 Qc7b6 Qg4g7 Kf7e8 Bh6g5 Pe5e4 Pd5d6 Qb6d8 Nb5c7 Qd8c7 Qg7h8 Ke8f7 Qh8g7 Kf7e8 Qg7g8 Ke8d7 Qg8f7 Kd7c6 Nf5e7 Qc7e7 Qf7d5 Kc6d7 Pd6e7 Bb4d6 Bd3e2 Pb7b6 Qe7e8 Kd7e8 Qd5d6 Ke8f7 Be2h5 Kf7g7 Qd6g6 Kg7f8 Qg6d6 Kf8g7 Qd6g6 Kg7f8 Bg5f4 Bc8g4 Kd1c1 Ra8a7 Ra1a5 Bg4e6 Qg6e8 Kf8g7 Ra5d5 Ra7f7 Bf4e5 Rf7f6 Qe8e6 Kg7h6 Qe6f6 Kh6h5 Pf2f4 Kh5g4 Qf6f5 Kg4f5 Be5d4 Kf5e6 Rh1f1 Pb6b5 Pc4b5 Ke6d5 P",
+    "legal_positions": [
+      "b5",
+      "f4",
+      "g3",
+      "h2",
+      "b2"
+    ],
+    "piece": "P",
+    "tag": "PawnLategame"
+  },
+  {
+    "id": 87,
+    "board_state": "Pd2d4 Pa7a6 Pc2c4 Nb8c6 Ng1f3 Ph7h6 Nb1c3 Pg7g5 Pd4d5 Nc6b4 Pa2a3 Pc7c5 Pa3b4 Pd7d6 Pb4c5 Pe7e6 Pe2e4 Pe6e5 Pg2g3 Pf7f5 Pc5d6 Bf8d6 Pe4f5 Pg5g4 Nf3h4 Ng8e7 Bc1e3 Ne7f5 Nh4f5 Ke8f8 Bf1d3 Qd8c7 Be3h6 Kf8g8 Qd1g4 Kg8f7 Nc3b5 Bd6b4 Ke1d1 Qc7b6 Qg4g7 Kf7e8 Bh6g5 Pe5e4 Pd5d6 Qb6d8 Nb5c7 Qd8c7 Qg7h8 Ke8f7 Qh8g7 Kf7e8 Qg7g8 Ke8d7 Qg8f7 Kd7c6 Nf5e7 Qc7e7 Qf7d5 Kc6d7 Pd6e7 Bb4d6 Bd3e2 Pb7b6 Qe7e8 Kd7e8 Qd5d6 Ke8f7 Be2h5 Kf7g7 Qd6g6 Kg7f8 Qg6d6 Kf8g7 Qd6g6 Kg7f8 Bg5f4 Bc8g4 Kd1c1 Ra8a7 Ra1a5 Bg4e6 Qg6e8 Kf8g7 Ra5d5 Ra7f7 Bf4e5 Rf7f6 Qe8e6 Kg7h6 Qe6f6 Kh6h5 Pf2f4 Kh5g4 Qf6f5 Kg4f5 Be5d4 Kf5e6 Rh1f1 Pb6b5 Pc4b5 Ke6d5 Pb5",
+    "legal_positions": [
+      "a6",
+      "b6"
+    ],
+    "piece": "Pb5",
+    "tag": "PawnLategame"
+  },
+  {
+    "id": 88,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Pe2e3 Pe7e6 Ng1e2 Ng8e7 Pd2d4 Pc5d4 Pe3d4 Nc6a5 Pb2b3 Pd7d5 Pc4d5 Pe6d5 Bc1g5 Pf7f6 Bg5e3 Bc8g4 Qd1d2 Bg4e6 Ke1g1 Pg6g5 Pf2f4 Ph7h6 Ph2h3 Na5c6 Pg3g4 Be6f7 Nc3a4 Qd8d6 Ra1c1 Ke8g8 Pf4f5 Ra8e8 Rf1d1 Qd6d7 Ne2c3 Pb7b6 Nc3b5 Ph6h5 Be3f2 Nc6b8 Nb5a3 Re8c8 Na4c3 Rf8e8 Bf2g3 Ph5h4 Bg3e5 Pf6e5 Pd4e5 Ne7f5 Pg4f5 Qd7f5 Bg2d5 Bg7e5 Na3c4 Be5f4 Qd2c2 Qf5c2 Bd5g2 Bf4c1 Rd1f1 Qc2c3 Kg1h1 Rc8c4 Pb3c4 Qc3g3 Rf1c1 Re8e2 Rc1g1 Re2e3 Bg2f1 Pg5g4 Rg1g3 Ph4g3 Ph3g4 Re3e4 P",
+    "legal_positions": [
+      "g4",
+      "c4",
+      "a2"
+    ],
+    "piece": "P",
+    "tag": "PawnLategame"
+  },
+  {
+    "id": 89,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Pe2e3 Pe7e6 Ng1e2 Ng8e7 Pd2d4 Pc5d4 Pe3d4 Nc6a5 Pb2b3 Pd7d5 Pc4d5 Pe6d5 Bc1g5 Pf7f6 Bg5e3 Bc8g4 Qd1d2 Bg4e6 Ke1g1 Pg6g5 Pf2f4 Ph7h6 Ph2h3 Na5c6 Pg3g4 Be6f7 Nc3a4 Qd8d6 Ra1c1 Ke8g8 Pf4f5 Ra8e8 Rf1d1 Qd6d7 Ne2c3 Pb7b6 Nc3b5 Ph6h5 Be3f2 Nc6b8 Nb5a3 Re8c8 Na4c3 Rf8e8 Bf2g3 Ph5h4 Bg3e5 Pf6e5 Pd4e5 Ne7f5 Pg4f5 Qd7f5 Bg2d5 Bg7e5 Na3c4 Be5f4 Qd2c2 Qf5c2 Bd5g2 Bf4c1 Rd1f1 Qc2c3 Kg1h1 Rc8c4 Pb3c4 Qc3g3 Rf1c1 Re8e2 Rc1g1 Re2e3 Bg2f1 Pg5g4 Rg1g3 Ph4g3 Ph3g4 Re3e4 Pg4",
+    "legal_positions": [
+      "g5"
+    ],
+    "piece": "Pg4",
+    "tag": "PawnLategame"
+  },
+  {
+    "id": 90,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 Pe2e4 Pd5e4 Nf3d4 Nc6e5 Pc4c5 Pb7b6 Pc5b6 Pc7c6 Qc2e4 Qd8d6 Pb6b7 Bc8e6 Nd4c6 Ra8a7 Rb7b8 Ke8d7 Bc3b4 Pa5b4 Pb2b3 Rh8b8 Rc1c5 Qd6c5 Nc6d4 Rb8b5 Nd4b5 Ra7b7 Bf1d3 Rb7b5 Bd3b5 Kd7d6 Pa2a3 Pb4a3 Nb1a3 Be6b3 Pf2f3 Nf5g3 P",
+    "legal_positions": [
+      "h2"
+    ],
+    "piece": "P",
+    "tag": "OnlyOneOfManyPawnCanMove"
+  },
+  {
+    "id": 91,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 Pe2e4 Pd5e4 Nf3d4 Nc6e5 Pc4c5 Pb7b6 Pc5b6 Pc7c6 Qc2e4 Qd8d6 Pb6b7 Bc8e6 Nd4c6 Ra8a7 Rb7b8 Ke8d7 Bc3b4 Pa5b4 Pb2b3 Rh8b8 Rc1c5 Qd6c5 Nc6d4 Rb8b5 Nd4b5 Ra7b7 Bf1d3 Rb7b5 Bd3b5 Kd7d6 Pa2a3 Pb4a3 Nb1a3 Be6b3 Pf2f3 Nf5g3 Ph2",
+    "legal_positions": [
+      "g3",
+      "h3",
+      "h4"
+    ],
+    "piece": "Ph2",
+    "tag": "OnlyOneOfManyPawnCanMove"
+  },
+  {
+    "id": 92,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 Pe2e4 Pd5e4 Nf3d4 Nc6e5 Pc4c5 Pb7b6 Pc5b6 Pc7c6 Qc2e4 Qd8d6 Pb6b7 Bc8e6 Nd4c6 Ra8a7 Rb7b8 Ke8d7 Bc3b4 Pa5b4 Pb2b3 Rh8b8 Rc1c5 Qd6c5 Nc6d4 Rb8b5 Nd4b5 Ra7b7 Bf1d3 Rb7b5 Bd3b5 Kd7d6 Pa2a3 Pb4a3 Nb1a3 Be6b3 Pf2f3 P",
+    "legal_positions": [
+      "h7",
+      "g7"
+    ],
+    "piece": "P",
+    "tag": "OnlyFiewPawnsLeft"
+  },
+  {
+    "id": 93,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 Pe2e4 Pd5e4 Nf3d4 Nc6e5 Pc4c5 Pb7b6 Pc5b6 Pc7c6 Qc2e4 Qd8d6 Pb6b7 Bc8e6 Nd4c6 Ra8a7 Rb7b8 Ke8d7 Bc3b4 Pa5b4 Pb2b3 Rh8b8 Rc1c5 Qd6c5 Nc6d4 Rb8b5 Nd4b5 Ra7b7 Bf1d3 Rb7b5 Bd3b5 Kd7d6 Pa2a3 Pb4a3 Nb1a3 Be6b3 Pf2f3 Ph7",
+    "legal_positions": [
+      "h6",
+      "h5"
+    ],
+    "piece": "Ph7",
+    "tag": "OnlyFiewPawnsLeft"
+  },
+  {
+    "id": 94,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 Pe2e4 Pd5e4 Nf3d4 Nc6e5 Pc4c5 Pb7b6 Pc5b6 Pc7c6 Qc2e4 Qd8d6 Pb6b7 Bc8e6 Nd4c6 Ra8a7 Rb7b8 Ke8d7 Bc3b4 Pa5b4 Pb2b3 Rh8b8 Rc1c5 Qd6c5 Nc6d4 Rb8b5 Nd4b5 Ra7b7 Bf1d3 Rb7b5 Pa2a3 Pb4a3 Nb1a3 Be6b3 Ke1d2 Qc5f2 Kd2c3 Qf2g2 Qe4g2 Bb3e6 Qg2a8 Nf5g3 Qa8b8 Be6h3 P",
+    "legal_positions": [
+      "h2"
+    ],
+    "piece": "P",
+    "tag": "PawnCanCapture"
+  },
+  {
+    "id": 95,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 Pe2e4 Pd5e4 Nf3d4 Nc6e5 Pc4c5 Pb7b6 Pc5b6 Pc7c6 Qc2e4 Qd8d6 Pb6b7 Bc8e6 Nd4c6 Ra8a7 Rb7b8 Ke8d7 Bc3b4 Pa5b4 Pb2b3 Rh8b8 Rc1c5 Qd6c5 Nc6d4 Rb8b5 Nd4b5 Ra7b7 Bf1d3 Rb7b5 Pa2a3 Pb4a3 Nb1a3 Be6b3 Ke1d2 Qc5f2 Kd2c3 Qf2g2 Qe4g2 Bb3e6 Qg2a8 Nf5g3 Qa8b8 Be6h3 Ph2",
+    "legal_positions": [
+      "g3"
+    ],
+    "piece": "Ph2",
+    "tag": "PawnCanCapture"
+  },
+  {
+    "id": 96,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 Pe2e4 Pd5e4 Nf3d4 Nc6e5 Pc4c5 Pb7b6 Pc5b6 Pc7c6 Qc2e4 Qd8d6 Pb6b7 Bc8e6 Nd4c6 Ra8a7 Rb7b8 Ke8d7 Bc3b4 Pa5b4 Pb2b3 Rh8b8 Rc1c5 Qd6c5 Nc6d4 Rb8b5 Nd4b5 Ra7b7 Bf1d3 Rb7b5 Pa2a3 Pb4a3 Nb1a3 Be6b3 Ke1d2 Qc5f2 Kd2c3 Qf2g2  P",
+    "legal_positions": [
+      "h2"
+    ],
+    "piece": "P",
+    "tag": "OnlyOnePawnLeft"
+  },
+  {
+    "id": 97,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 Pe2e4 Pd5e4 Nf3d4 Nc6e5 Pc4c5 Pb7b6 Pc5b6 Pc7c6 Qc2e4 Qd8d6 Pb6b7 Bc8e6 Nd4c6 Ra8a7 Rb7b8 Ke8d7 Bc3b4 Pa5b4 Pb2b3 Rh8b8 Rc1c5 Qd6c5 Nc6d4 Rb8b5 Nd4b5 Ra7b7 Bf1d3 Rb7b5 Pa2a3 Pb4a3 Nb1a3 Be6b3 Ke1d2 Qc5f2 Kd2c3 Qf2g2  Ph2",
+    "legal_positions": [
+      "h3",
+      "h4"
+    ],
+    "piece": "Ph2",
+    "tag": "OnlyOnePawnLeft"
+  },
+  {
+    "id": 98,
+    "board_state": "Pb2b3 Pd7d5 Bc1b2 Bc8g4 Nb1c3 Pe7e5 Ng1f3 Pe5e4 Nf3d4 Bf8c5 Pg2g3 Ph7h5 Ph2h4 Qd8f6 P",
+    "legal_positions": [
+      "b3",
+      "f2",
+      "e2",
+      "d2",
+      "a2"
+    ],
+    "piece": "P",
+    "tag": "PawnCanOnlyMoveOneSquareFromStartPosition"
+  },
+  {
+    "id": 99,
+    "board_state": "Pb2b3 Pd7d5 Bc1b2 Bc8g4 Nb1c3 Pe7e5 Ng1f3 Pe5e4 Nf3d4 Bf8c5 Pg2g3 Ph7h5 Ph2h4 Qd8f6 Pb3",
+    "legal_positions": [
+      "b4"
+    ],
+    "piece": "Pb3",
+    "tag": "PawnCanOnlyMoveOneSquareFromStartPosition"
+  },
+  {
+    "id": 100,
+    "board_state": "Pb2b3 Pd7d5 Bc1b2 Bc8g4 Nb1c3 Pe7e5 Ng1f3 Pe5e4 Nf3d4 Bf8c5 Pg2g3 Ph7h5 Ph2h4 Qd8f6 Pa2a4 Nb8c6 Pf2f4 Pa7a5 Pf4f5 Bc5b4 P",
+    "legal_positions": [
+      "e2",
+      "d2"
+    ],
+    "piece": "P",
+    "tag": "PawnCanOnlyMoveOneSquareFromStartPosition"
+  },
+  {
+    "id": 101,
+    "board_state": "Pb2b3 Pd7d5 Bc1b2 Bc8g4 Nb1c3 Pe7e5 Ng1f3 Pe5e4 Nf3d4 Bf8c5 Pg2g3 Ph7h5 Ph2h4 Qd8f6 Pa2a4 Nb8c6 Pf2f4 Pa7a5 Pf4f5 Bc5b4 Pe2",
+    "legal_positions": [
+      "e3"
+    ],
+    "piece": "Pe2",
+    "tag": "PawnCanOnlyMoveOneSquareFromStartPosition"
+  },
+  {
+    "id": 102,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 P",
+    "legal_positions": [
+      "e2"
+    ],
+    "piece": "P",
+    "tag": "PawnHasToCapture(Check)"
+  },
+  {
+    "id": 103,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 Pe2",
+    "legal_positions": [
+      "d3"
+    ],
+    "piece": "Pe2",
+    "tag": "PawnHasToCapture(Check)"
+  },
+  {
+    "id": 104,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 Pe2d3 Ne7c6 Nf3g1 Ph7h6 Ng1e2 Pf5f4 Be3f4 Pe5f4 Ne2f4 Bc8f5 B",
+    "legal_positions": [
+      "f1"
+    ],
+    "piece": "B",
+    "tag": "Bishop"
+  },
+  {
+    "id": 105,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 Pe2d3 Ne7c6 Nf3g1 Ph7h6 Ng1e2 Pf5f4 Be3f4 Pe5f4 Ne2f4 Bc8f5 Bf1",
+    "legal_positions": [
+      "e2"
+    ],
+    "piece": "Bf1",
+    "tag": "Bishop"
+  },
+  {
+    "id": 106,
+    "board_state": "Pc2c4 Pg7g5 Pb2b3 Pd7d5 Ng1f3 B",
+    "legal_positions": [
+      "f8",
+      "c8"
+    ],
+    "piece": "B",
+    "tag": "BishopAsBlack"
+  },
+  {
+    "id": 107,
+    "board_state": "Pc2c4 Pg7g5 Pb2b3 Pd7d5 Ng1f3 Bf8",
+    "legal_positions": [
+      "g7",
+      "h6"
+    ],
+    "piece": "Bf8",
+    "tag": "BishopAsBlack"
+  },
+  {
+    "id": 108,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nf3d2 B",
+    "legal_positions": [
+      "d7"
+    ],
+    "piece": "B",
+    "tag": "BishopAsBlack"
+  },
+  {
+    "id": 109,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nf3d2 Bd7",
+    "legal_positions": [
+      "c8",
+      "c6",
+      "b5",
+      "a4"
+    ],
+    "piece": "Bd7",
+    "tag": "BishopAsBlack"
+  },
+  {
+    "id": 110,
+    "board_state": "Pd2d4 Pa7a6 Pc2c4 Nb8c6 Ng1f3 Ph7h6 Nb1c3 Pg7g5 Pd4d5 Nc6b4 Pa2a3 Pc7c5 Pa3b4 Pd7d6 Pb4c5 Pe7e6 Pe2e4 Pe6e5 Pg2g3 Pf7f5 Pc5d6 Bf8d6 Pe4f5 Pg5g4 Nf3h4 Ng8e7 Bc1e3 Ne7f5 Nh4f5 Ke8f8 Bf1d3 Qd8c7 Be3h6 Kf8g8 Qd1g4 Kg8f7 Nc3b5 Bd6b4 Ke1d1 Qc7b6 Qg4g7 Kf7e8 Bh6g5 Pe5e4 Pd5d6 Qb6d8 Nb5c7 Qd8c7 Qg7h8 Ke8f7 Qh8g7 Kf7e8 Qg7g8 Ke8d7 Qg8f7 Kd7c6 Nf5e7 Qc7e7 Qf7d5 Kc6d7 Pd6e7 Bb4d6 Bd3e2 Pb7b6 Qe7e8 Kd7e8 Qd5d6 Ke8f7 Be2h5 Kf7g7 Qd6g6 Kg7f8 Qg6d6 Kf8g7 Qd6g6 Kg7f8 Bg5f4 Bc8g4 Kd1c1 Ra8a7 Ra1a5 Bg4e6 Qg6e8 Kf8g7 Ra5d5 Ra7f7 Bf4e5 Rf7f6 Qe8e6 Kg7h6 Qe6f6 Kh6h5 Pf2f4 Kh5g4 Qf6f5 Kg4f5 Be5d4 Kf5e6 Rh1f1 Pb6b5 Pc4b5 Ke6d5 B",
+    "legal_positions": [
+      "d4"
+    ],
+    "piece": "B",
+    "tag": "BishopLategame"
+  },
+  {
+    "id": 111,
+    "board_state": "Pd2d4 Pa7a6 Pc2c4 Nb8c6 Ng1f3 Ph7h6 Nb1c3 Pg7g5 Pd4d5 Nc6b4 Pa2a3 Pc7c5 Pa3b4 Pd7d6 Pb4c5 Pe7e6 Pe2e4 Pe6e5 Pg2g3 Pf7f5 Pc5d6 Bf8d6 Pe4f5 Pg5g4 Nf3h4 Ng8e7 Bc1e3 Ne7f5 Nh4f5 Ke8f8 Bf1d3 Qd8c7 Be3h6 Kf8g8 Qd1g4 Kg8f7 Nc3b5 Bd6b4 Ke1d1 Qc7b6 Qg4g7 Kf7e8 Bh6g5 Pe5e4 Pd5d6 Qb6d8 Nb5c7 Qd8c7 Qg7h8 Ke8f7 Qh8g7 Kf7e8 Qg7g8 Ke8d7 Qg8f7 Kd7c6 Nf5e7 Qc7e7 Qf7d5 Kc6d7 Pd6e7 Bb4d6 Bd3e2 Pb7b6 Qe7e8 Kd7e8 Qd5d6 Ke8f7 Be2h5 Kf7g7 Qd6g6 Kg7f8 Qg6d6 Kf8g7 Qd6g6 Kg7f8 Bg5f4 Bc8g4 Kd1c1 Ra8a7 Ra1a5 Bg4e6 Qg6e8 Kf8g7 Ra5d5 Ra7f7 Bf4e5 Rf7f6 Qe8e6 Kg7h6 Qe6f6 Kh6h5 Pf2f4 Kh5g4 Qf6f5 Kg4f5 Be5d4 Kf5e6 Rh1f1 Pb6b5 Pc4b5 Ke6d5 Bd4",
+    "legal_positions": [
+      "h8",
+      "g7",
+      "a7",
+      "f6",
+      "b6",
+      "e5",
+      "c5",
+      "e3",
+      "c3",
+      "f2",
+      "g1"
+    ],
+    "piece": "Bd4",
+    "tag": "BishopLategame"
+  },
+  {
+    "id": 112,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Pe2e3 Pe7e6 Ng1e2 Ng8e7 Pd2d4 Pc5d4 Pe3d4 Nc6a5 Pb2b3 Pd7d5 Pc4d5 Pe6d5 Bc1g5 Pf7f6 Bg5e3 Bc8g4 Qd1d2 Bg4e6 Ke1g1 Pg6g5 Pf2f4 Ph7h6 Ph2h3 Na5c6 Pg3g4 Be6f7 Nc3a4 Qd8d6 Ra1c1 Ke8g8 Pf4f5 Ra8e8 Rf1d1 Qd6d7 Ne2c3 Pb7b6 Nc3b5 Ph6h5 Be3f2 Nc6b8 Nb5a3 Re8c8 Na4c3 Rf8e8 Bf2g3 Ph5h4 Bg3e5 Pf6e5 Pd4e5 Ne7f5 Pg4f5 Qd7f5 Bg2d5 Bg7e5 Na3c4 Be5f4 Qd2c2 Qf5c2 Bd5g2 Bf4c1 Rd1f1 Qc2c3 Kg1h1 Rc8c4 Pb3c4 Qc3g3 Rf1c1 Re8e2 Rc1g1 Re2e3 Bg2f1 Pg5g4 Rg1g3 Ph4g3 Ph3g4 Re3e4 B",
+    "legal_positions": [
+      "f1"
+    ],
+    "piece": "B",
+    "tag": "BishopLategame"
+  },
+  {
+    "id": 113,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Pe2e3 Pe7e6 Ng1e2 Ng8e7 Pd2d4 Pc5d4 Pe3d4 Nc6a5 Pb2b3 Pd7d5 Pc4d5 Pe6d5 Bc1g5 Pf7f6 Bg5e3 Bc8g4 Qd1d2 Bg4e6 Ke1g1 Pg6g5 Pf2f4 Ph7h6 Ph2h3 Na5c6 Pg3g4 Be6f7 Nc3a4 Qd8d6 Ra1c1 Ke8g8 Pf4f5 Ra8e8 Rf1d1 Qd6d7 Ne2c3 Pb7b6 Nc3b5 Ph6h5 Be3f2 Nc6b8 Nb5a3 Re8c8 Na4c3 Rf8e8 Bf2g3 Ph5h4 Bg3e5 Pf6e5 Pd4e5 Ne7f5 Pg4f5 Qd7f5 Bg2d5 Bg7e5 Na3c4 Be5f4 Qd2c2 Qf5c2 Bd5g2 Bf4c1 Rd1f1 Qc2c3 Kg1h1 Rc8c4 Pb3c4 Qc3g3 Rf1c1 Re8e2 Rc1g1 Re2e3 Bg2f1 Pg5g4 Rg1g3 Ph4g3 Ph3g4 Re3e4 Bf1",
+    "legal_positions": [
+      "h3",
+      "d3",
+      "g2",
+      "e2"
+    ],
+    "piece": "Bf1",
+    "tag": "BishopLategame"
+  },
+  {
+    "id": 114,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 B",
+    "legal_positions": [
+      "e8",
+      "f4",
+      "b7"
+    ],
+    "piece": "B",
+    "tag": "BishopLategame"
+  },
+  {
+    "id": 115,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 Be8",
+    "legal_positions": [
+      "f7",
+      "g6",
+      "h5"
+    ],
+    "piece": "Be8",
+    "tag": "BishopLategame"
+  },
+  {
+    "id": 116,
+    "board_state": "Pe2e4 Pe7e5 Bf1e2 Bf8a3 Pb2b3 Ng8f6 B",
+    "legal_positions": [
+      "e2",
+      "c1"
+    ],
+    "piece": "B",
+    "tag": "BishopUncommonOpening"
+  },
+  {
+    "id": 117,
+    "board_state": "Pe2e4 Pe7e5 Bf1e2 Bf8a3 Pb2b3 Ng8f6 Be2",
+    "legal_positions": [
+      "a6",
+      "h5",
+      "b5",
+      "g4",
+      "c4",
+      "f3",
+      "d3",
+      "f1"
+    ],
+    "piece": "Be2",
+    "tag": "BishopUncommonOpening"
+  },
+  {
+    "id": 118,
+    "board_state": "Pe2e4 Pd7d5 Ph2h3 Bc8f5 Pe4f5 Qd8d7 B",
+    "legal_positions": [
+      "f1"
+    ],
+    "piece": "B",
+    "tag": "BishopUncommonOpening"
+  },
+  {
+    "id": 119,
+    "board_state": "Pe2e4 Pd7d5 Ph2h3 Bc8f5 Pe4f5 Qd8d7 Bf1",
+    "legal_positions": [
+      "a6",
+      "b5",
+      "c4",
+      "d3",
+      "e2"
+    ],
+    "piece": "Bf1",
+    "tag": "BishopUncommonOpening"
+  },
+  {
+    "id": 120,
+    "board_state": "Pg2g4 Pf7f6 Pe2e3 Nb8a6 B",
+    "legal_positions": [
+      "f1"
+    ],
+    "piece": "B",
+    "tag": "BishopUncommonOpening"
+  },
+  {
+    "id": 121,
+    "board_state": "Pg2g4 Pf7f6 Pe2e3 Nb8a6 Bf1",
+    "legal_positions": [
+      "a6",
+      "b5",
+      "c4",
+      "h3",
+      "d3",
+      "g2",
+      "e2"
+    ],
+    "piece": "Bf1",
+    "tag": "BishopUncommonOpening"
+  },
+  {
+    "id": 122,
+    "board_state": "Pe2e4 Pd7d5 Pe4d5 Qd8d6 Nb1c3 Qd6h6 Pd2d3 Qh6a6 Bc1f4 Pc7c6 Pd5c6 Qa6c6 Bf4e5 Pf7f6 Be5d4 Qc6c5 Bd4c5 Nb8c6 Bc5e3 Ng8h6 Ph2h3 Nh6g4 Ph3h4 Ng4h6 Ph4h5 Nh6g4 Pf2f3 Ng4e3 Ng1e2 Ne3d1 Ke1d1 Nc6d4 Kd1e1 Nd4e2 Bf1e2 Pe7e5 Nc3e4 Pg7g6 Ph5g6 Ph7g6 Rh1h8 Ke8e7 Rh8h6 Bf8h6 Pf3f4 Pe5f4 Be2f3 Bh6g5 Ne4g5 Pf6g5 Pg2g3 Pf4g3 Bf3g4 Ke7d6 Pc2c4 Pb7b6 Ra1d1 Bc8b7 Ke1d2 Pb6b5 Rd1e1 Pb5c4 Pd3c4 Kd6c5 B",
+    "legal_positions": [
+      "g4"
+    ],
+    "piece": "B",
+    "tag": "OneBishopOfOnePlayer"
+  },
+  {
+    "id": 123,
+    "board_state": "Pe2e4 Pd7d5 Pe4d5 Qd8d6 Nb1c3 Qd6h6 Pd2d3 Qh6a6 Bc1f4 Pc7c6 Pd5c6 Qa6c6 Bf4e5 Pf7f6 Be5d4 Qc6c5 Bd4c5 Nb8c6 Bc5e3 Ng8h6 Ph2h3 Nh6g4 Ph3h4 Ng4h6 Ph4h5 Nh6g4 Pf2f3 Ng4e3 Ng1e2 Ne3d1 Ke1d1 Nc6d4 Kd1e1 Nd4e2 Bf1e2 Pe7e5 Nc3e4 Pg7g6 Ph5g6 Ph7g6 Rh1h8 Ke8e7 Rh8h6 Bf8h6 Pf3f4 Pe5f4 Be2f3 Bh6g5 Ne4g5 Pf6g5 Pg2g3 Pf4g3 Bf3g4 Ke7d6 Pc2c4 Pb7b6 Ra1d1 Bc8b7 Ke1d2 Pb6b5 Rd1e1 Pb5c4 Pd3c4 Kd6c5 Bg4",
+    "legal_positions": [
+      "c8",
+      "d7",
+      "e6",
+      "h5",
+      "f5",
+      "h3",
+      "f3",
+      "e2",
+      "d1"
+    ],
+    "piece": "Bg4",
+    "tag": "OneBishopOfOnePlayer"
+  },
+  {
+    "id": 124,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nb1d2 Nb8c6 Nf3d4 Nc6b4 Ke1g1 Ke8c8 B",
+    "legal_positions": [
+      "e2"
+    ],
+    "piece": "B",
+    "tag": "OneBishopOfOnePlayer"
+  },
+  {
+    "id": 125,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nb1d2 Nb8c6 Nf3d4 Nc6b4 Ke1g1 Ke8c8 Be2",
+    "legal_positions": [
+      "a6",
+      "h5",
+      "b5",
+      "g4",
+      "c4",
+      "f3",
+      "d3"
+    ],
+    "piece": "Be2",
+    "tag": "OneBishopOfOnePlayer"
+  },
+  {
+    "id": 126,
+    "board_state": "Pd2d4 Pe7e5 Pe2e4 Pd7d5 Pd4e5 Pd5e4 Ng1f3 Ng8f6 Bc1e3 Pe4f3 Pg2f3 Bf8c5 Qd1d8 Ke8d8 Bf1d3 Kd8e8 B",
+    "legal_positions": [
+      "e3",
+      "d3"
+    ],
+    "piece": "B",
+    "tag": "TwoBishopsOfOnePlayer"
+  },
+  {
+    "id": 127,
+    "board_state": "Pd2d4 Pe7e5 Pe2e4 Pd7d5 Pd4e5 Pd5e4 Ng1f3 Ng8f6 Bc1e3 Pe4f3 Pg2f3 Bf8c5 Qd1d8 Ke8d8 Bf1d3 Kd8e8 Be3",
+    "legal_positions": [
+      "h6",
+      "g5",
+      "c5",
+      "f4",
+      "d4",
+      "d2",
+      "c1"
+    ],
+    "piece": "Be3",
+    "tag": "TwoBishopsOfOnePlayer"
+  },
+  {
+    "id": 128,
+    "board_state": "Pd2d3 Pd7d5 Bc1f4 Ng8f6 Ng1f3 Pc7c5 Nb1c3 Pc5c4 Pd3c4 Bc8g4 Nc3d5 Nf6d5 Nf3e5 Nd5c3 Pb2c3 Qd8d1 Ke1d1 Pe7e6 Bf4e3 Nb8d7 Pc4c5 Bg4h5 Pc3c4 Ra8c8 Pg2g3 Bh5g4 B",
+    "legal_positions": [
+      "e3",
+      "f1"
+    ],
+    "piece": "B",
+    "tag": "TwoBishopsOfOnePlayer"
+  },
+  {
+    "id": 129,
+    "board_state": "Pd2d3 Pd7d5 Bc1f4 Ng8f6 Ng1f3 Pc7c5 Nb1c3 Pc5c4 Pd3c4 Bc8g4 Nc3d5 Nf6d5 Nf3e5 Nd5c3 Pb2c3 Qd8d1 Ke1d1 Pe7e6 Bf4e3 Nb8d7 Pc4c5 Bg4h5 Pc3c4 Ra8c8 Pg2g3 Bh5g4 Be3",
+    "legal_positions": [
+      "h6",
+      "g5",
+      "f4",
+      "d4",
+      "d2",
+      "c1"
+    ],
+    "piece": "Be3",
+    "tag": "TwoBishopsOfOnePlayer"
+  },
+  {
+    "id": 130,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Ke1f1 Bd7b5 B",
+    "legal_positions": [
+      "b4",
+      "e2"
+    ],
+    "piece": "B",
+    "tag": "OneOfTwoBishopsHasALegalMove"
+  },
+  {
+    "id": 131,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Ke1f1 Bd7b5 Bb4",
+    "legal_positions": [
+      "f8",
+      "e7",
+      "d6",
+      "c5",
+      "a5",
+      "c3",
+      "a3",
+      "d2",
+      "e1"
+    ],
+    "piece": "Bb4",
+    "tag": "OneOfTwoBishopsHasALegalMove"
+  },
+  {
+    "id": 132,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 Pe2d3 Ne7c6 Nf3g1 Ph7h6 Ng1e2 B",
+    "legal_positions": [
+      "f8",
+      "c8"
+    ],
+    "piece": "B",
+    "tag": "OneOfTwoBishopsHasALegalMove"
+  },
+  {
+    "id": 133,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 Pe2d3 Ne7c6 Nf3g1 Ph7h6 Ng1e2 Bf8",
+    "legal_positions": [
+      "e7"
+    ],
+    "piece": "Bf8",
+    "tag": "OneOfTwoBishopsHasALegalMove"
+  },
+  {
+    "id": 134,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 Bb7b8 Bc5b6 B",
+    "legal_positions": [
+      "e8",
+      "b8",
+      "f4"
+    ],
+    "piece": "B",
+    "tag": "AfterPromotionToBishop"
+  },
+  {
+    "id": 135,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 Bb7b8 Bc5b6 Be8",
+    "legal_positions": [
+      "f7",
+      "g6",
+      "h5"
+    ],
+    "piece": "Be8",
+    "tag": "AfterPromotionToBishop"
+  },
+  {
+    "id": 136,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 B",
+    "legal_positions": [
+      "c3"
+    ],
+    "piece": "B",
+    "tag": "BishopIsPinned"
+  },
+  {
+    "id": 137,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 Bc3",
+    "legal_positions": [
+      "b4",
+      "d2"
+    ],
+    "piece": "Bc3",
+    "tag": "BishopIsPinned"
+  },
+  {
+    "id": 138,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Ke1c1 R",
+    "legal_positions": [
+      "h8",
+      "a8"
+    ],
+    "piece": "R",
+    "tag": "RookAsBlack"
+  },
+  {
+    "id": 139,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Ke1c1 Rh8",
+    "legal_positions": [
+      "g8"
+    ],
+    "piece": "Rh8",
+    "tag": "RookAsBlack"
+  },
+  {
+    "id": 140,
+    "board_state": "Ph2h3 Pg7g5 Pd2d3 Pc7c5 Qd1d2 Ng8h6 R",
+    "legal_positions": [
+      "h1"
+    ],
+    "piece": "R",
+    "tag": "RookUncommonOpening"
+  },
+  {
+    "id": 141,
+    "board_state": "Ph2h3 Pg7g5 Pd2d3 Pc7c5 Qd1d2 Ng8h6 Rh1",
+    "legal_positions": [
+      "h2"
+    ],
+    "piece": "Rh1",
+    "tag": "RookUncommonOpening"
+  },
+  {
+    "id": 142,
+    "board_state": "Pe2e4 Pd7d5 Ph2h3 Bc8f5 Pe4f5 Qd8d7 R",
+    "legal_positions": [
+      "h1"
+    ],
+    "piece": "R",
+    "tag": "RookUncommonOpening"
+  },
+  {
+    "id": 143,
+    "board_state": "Pe2e4 Pd7d5 Ph2h3 Bc8f5 Pe4f5 Qd8d7 Rh1",
+    "legal_positions": [
+      "h2"
+    ],
+    "piece": "Rh1",
+    "tag": "RookUncommonOpening"
+  },
+  {
+    "id": 144,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 R",
+    "legal_positions": [
+      "h1",
+      "a1"
+    ],
+    "piece": "R",
+    "tag": "RookUncommonOpening"
+  },
+  {
+    "id": 145,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Rh1",
+    "legal_positions": [
+      "g1"
+    ],
+    "piece": "Rh1",
+    "tag": "RookUncommonOpening"
+  },
+  {
+    "id": 146,
+    "board_state": "Pd2d4 Pa7a6 Pc2c4 Nb8c6 Ng1f3 Ph7h6 Nb1c3 Pg7g5 Pd4d5 Nc6b4 Pa2a3 Pc7c5 Pa3b4 Pd7d6 Pb4c5 Pe7e6 Pe2e4 Pe6e5 Pg2g3 Pf7f5 Pc5d6 Bf8d6 Pe4f5 Pg5g4 Nf3h4 Ng8e7 Bc1e3 Ne7f5 Nh4f5 Ke8f8 Bf1d3 Qd8c7 Be3h6 Kf8g8 Qd1g4 Kg8f7 Nc3b5 Bd6b4 Ke1d1 Qc7b6 Qg4g7 Kf7e8 Bh6g5 Pe5e4 Pd5d6 Qb6d8 Nb5c7 Qd8c7 Qg7h8 Ke8f7 Qh8g7 Kf7e8 Qg7g8 Ke8d7 Qg8f7 Kd7c6 Nf5e7 Qc7e7 Qf7d5 Kc6d7 Pd6e7 Bb4d6 Bd3e2 Pb7b6 Qe7e8 Kd7e8 Qd5d6 Ke8f7 Be2h5 Kf7g7 Qd6g6 Kg7f8 Qg6d6 Kf8g7 Qd6g6 Kg7f8 Bg5f4 Bc8g4 Kd1c1 Ra8a7 Ra1a5 Bg4e6 Qg6e8 Kf8g7 Ra5d5 Ra7f7 Bf4e5 Rf7f6 Qe8e6 Kg7h6 Qe6f6 Kh6h5 Pf2f4 Kh5g4 Qf6f5 Kg4f5 Be5d4 Kf5e6 Rh1f1 Pb6b5 Pc4b5 Ke6d5 R",
+    "legal_positions": [
+      "f1"
+    ],
+    "piece": "R",
+    "tag": "RookLategame"
+  },
+  {
+    "id": 147,
+    "board_state": "Pd2d4 Pa7a6 Pc2c4 Nb8c6 Ng1f3 Ph7h6 Nb1c3 Pg7g5 Pd4d5 Nc6b4 Pa2a3 Pc7c5 Pa3b4 Pd7d6 Pb4c5 Pe7e6 Pe2e4 Pe6e5 Pg2g3 Pf7f5 Pc5d6 Bf8d6 Pe4f5 Pg5g4 Nf3h4 Ng8e7 Bc1e3 Ne7f5 Nh4f5 Ke8f8 Bf1d3 Qd8c7 Be3h6 Kf8g8 Qd1g4 Kg8f7 Nc3b5 Bd6b4 Ke1d1 Qc7b6 Qg4g7 Kf7e8 Bh6g5 Pe5e4 Pd5d6 Qb6d8 Nb5c7 Qd8c7 Qg7h8 Ke8f7 Qh8g7 Kf7e8 Qg7g8 Ke8d7 Qg8f7 Kd7c6 Nf5e7 Qc7e7 Qf7d5 Kc6d7 Pd6e7 Bb4d6 Bd3e2 Pb7b6 Qe7e8 Kd7e8 Qd5d6 Ke8f7 Be2h5 Kf7g7 Qd6g6 Kg7f8 Qg6d6 Kf8g7 Qd6g6 Kg7f8 Bg5f4 Bc8g4 Kd1c1 Ra8a7 Ra1a5 Bg4e6 Qg6e8 Kf8g7 Ra5d5 Ra7f7 Bf4e5 Rf7f6 Qe8e6 Kg7h6 Qe6f6 Kh6h5 Pf2f4 Kh5g4 Qf6f5 Kg4f5 Be5d4 Kf5e6 Rh1f1 Pb6b5 Pc4b5 Ke6d5 Rf1",
+    "legal_positions": [
+      "f3",
+      "f2",
+      "h1",
+      "g1",
+      "e1",
+      "d1"
+    ],
+    "piece": "Rf1",
+    "tag": "RookLategame"
+  },
+  {
+    "id": 148,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 R",
+    "legal_positions": [
+      "d7",
+      "b7"
+    ],
+    "piece": "R",
+    "tag": "RookLategame"
+  },
+  {
+    "id": 149,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 Rd7",
+    "legal_positions": [
+      "d8",
+      "h7",
+      "g7",
+      "f7",
+      "e7",
+      "c7",
+      "d6"
+    ],
+    "piece": "Rd7",
+    "tag": "RookLategame"
+  },
+  {
+    "id": 150,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Ke1c1 Qd8e7 R",
+    "legal_positions": [
+      "h1",
+      "d1"
+    ],
+    "piece": "R",
+    "tag": "RookAfterCastleQueenSide"
+  },
+  {
+    "id": 151,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Ke1c1 Qd8e7 Rh1",
+    "legal_positions": [
+      "g1"
+    ],
+    "piece": "Rh1",
+    "tag": "RookAfterCastleQueenSide"
+  },
+  {
+    "id": 152,
+    "board_state": "Pe2e4 Pd7d5 Pe4d5 Qd8d6 Nb1c3 Qd6h6 Pd2d3 Qh6a6 Bc1f4 Pc7c6 Pd5c6 Qa6c6 Bf4e5 Pf7f6 Be5d4 Qc6c5 Bd4c5 Nb8c6 Bc5e3 Ng8h6 Ph2h3 Nh6g4 Ph3h4 Ng4h6 Ph4h5 Nh6g4 Pf2f3 Ng4e3 Ng1e2 Ne3d1 Ke1d1 Nc6d4 Kd1e1 Nd4e2 Bf1e2 Pe7e5 Nc3e4 Pg7g6 Ph5g6 Ph7g6 Rh1h8 Ke8e7 Rh8h6 Bf8h6 Pf3f4 Pe5f4 Be2f3 Bh6g5 Ne4g5 Pf6g5 Pg2g3 Pf4g3 Bf3g4 Ke7d6 Pc2c4 Pb7b6 Ra1d1 Bc8b7 Ke1d2 Pb6b5 Rd1e1 Pb5c4 Pd3c4 Kd6c5 R",
+    "legal_positions": [
+      "e1"
+    ],
+    "piece": "R",
+    "tag": "OneRookOfOnePlayer"
+  },
+  {
+    "id": 153,
+    "board_state": "Pe2e4 Pd7d5 Pe4d5 Qd8d6 Nb1c3 Qd6h6 Pd2d3 Qh6a6 Bc1f4 Pc7c6 Pd5c6 Qa6c6 Bf4e5 Pf7f6 Be5d4 Qc6c5 Bd4c5 Nb8c6 Bc5e3 Ng8h6 Ph2h3 Nh6g4 Ph3h4 Ng4h6 Ph4h5 Nh6g4 Pf2f3 Ng4e3 Ng1e2 Ne3d1 Ke1d1 Nc6d4 Kd1e1 Nd4e2 Bf1e2 Pe7e5 Nc3e4 Pg7g6 Ph5g6 Ph7g6 Rh1h8 Ke8e7 Rh8h6 Bf8h6 Pf3f4 Pe5f4 Be2f3 Bh6g5 Ne4g5 Pf6g5 Pg2g3 Pf4g3 Bf3g4 Ke7d6 Pc2c4 Pb7b6 Ra1d1 Bc8b7 Ke1d2 Pb6b5 Rd1e1 Pb5c4 Pd3c4 Kd6c5 Re1",
+    "legal_positions": [
+      "e8",
+      "e7",
+      "e6",
+      "e5",
+      "e4",
+      "e3",
+      "e2",
+      "h1",
+      "g1",
+      "f1",
+      "d1",
+      "c1",
+      "b1",
+      "a1"
+    ],
+    "piece": "Re1",
+    "tag": "OneRookOfOnePlayer"
+  },
+  {
+    "id": 154,
+    "board_state": "Pd2d3 Pd7d5 Bc1f4 Ng8f6 Ng1f3 Pc7c5 Nb1c3 Pc5c4 Pd3c4 Bc8g4 Nc3d5 Nf6d5 Nf3e5 Nd5c3 Pb2c3 Qd8d1 Ke1d1 Pe7e6 Bf4e3 Nb8d7 Pc4c5 Bg4h5 Pc3c4 Ra8c8 Pg2g3 Bh5g4 R",
+    "legal_positions": [
+      "h1",
+      "a1"
+    ],
+    "piece": "R",
+    "tag": "TwoRooksOfOnePlayer"
+  },
+  {
+    "id": 155,
+    "board_state": "Pd2d3 Pd7d5 Bc1f4 Ng8f6 Ng1f3 Pc7c5 Nb1c3 Pc5c4 Pd3c4 Bc8g4 Nc3d5 Nf6d5 Nf3e5 Nd5c3 Pb2c3 Qd8d1 Ke1d1 Pe7e6 Bf4e3 Nb8d7 Pc4c5 Bg4h5 Pc3c4 Ra8c8 Pg2g3 Bh5g4 Rh1",
+    "legal_positions": [
+      "g1"
+    ],
+    "piece": "Rh1",
+    "tag": "TwoRooksOfOnePlayer"
+  },
+  {
+    "id": 156,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nb1d2 Nb8c6 Nf3d4 Nc6b4 Ke1g1 Ke8c8 R",
+    "legal_positions": [
+      "f1",
+      "a1"
+    ],
+    "piece": "R",
+    "tag": "TwoRooksOfOnePlayer"
+  },
+  {
+    "id": 157,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nb1d2 Nb8c6 Nf3d4 Nc6b4 Ke1g1 Ke8c8 Rf1",
+    "legal_positions": [
+      "e1"
+    ],
+    "piece": "Rf1",
+    "tag": "TwoRooksOfOnePlayer"
+  },
+  {
+    "id": 158,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 Pe2d3 Ne7c6 Nf3g1 Ph7h6 Ng1e2 Pf5f4 Be3f4 Pe5f4 Pg2g3 Nc6b4 Pg3f4 Pg7g5 Rh1g1 Qd8d7 Pd3d4 Bf8e7 Pf4f5 Pc7c5 Pd4c5 Qd7b5 Pf5f6 Qb5e2 Pf6f7 Ke8d8 Bf1e2 Ph6h5 Rf7f8 Kd8d7 R",
+    "legal_positions": [
+      "f8",
+      "g1",
+      "d1"
+    ],
+    "piece": "R",
+    "tag": "ThreeRooksOfOnePlayer"
+  },
+  {
+    "id": 159,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 Pe2d3 Ne7c6 Nf3g1 Ph7h6 Ng1e2 Pf5f4 Be3f4 Pe5f4 Pg2g3 Nc6b4 Pg3f4 Pg7g5 Rh1g1 Qd8d7 Pd3d4 Bf8e7 Pf4f5 Pc7c5 Pd4c5 Qd7b5 Pf5f6 Qb5e2 Pf6f7 Ke8d8 Bf1e2 Ph6h5 Rf7f8 Kd8d7 Rf8",
+    "legal_positions": [
+      "h8",
+      "g8",
+      "e8",
+      "d8",
+      "c8",
+      "f7",
+      "f6",
+      "f5",
+      "f4",
+      "f3"
+    ],
+    "piece": "Rf8",
+    "tag": "ThreeRooksOfOnePlayer"
+  },
+  {
+    "id": 160,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 Pe2e4 Pd5e4 Nf3d4 Nc6e5 Pc4c5 Pb7b6 Pc5b6 Pc7c6 Qc2e4 Qd8d6 Pb6b7 Bc8e6 Nd4c6 Ra8a7 Rb7b8 Ke8d7 R",
+    "legal_positions": [
+      "b8",
+      "h1",
+      "c1"
+    ],
+    "piece": "R",
+    "tag": "ThreeRooksOfOnePlayer"
+  },
+  {
+    "id": 161,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 Pe2e4 Pd5e4 Nf3d4 Nc6e5 Pc4c5 Pb7b6 Pc5b6 Pc7c6 Qc2e4 Qd8d6 Pb6b7 Bc8e6 Nd4c6 Ra8a7 Rb7b8 Ke8d7 Rb8",
+    "legal_positions": [
+      "h8",
+      "g8",
+      "f8",
+      "e8",
+      "d8",
+      "c8",
+      "a8",
+      "b7",
+      "b6",
+      "b5",
+      "b4"
+    ],
+    "piece": "Rb8",
+    "tag": "ThreeRooksOfOnePlayer"
+  },
+  {
+    "id": 162,
+    "board_state": "Pd2d4 Pe7e5 Pe2e4 Pd7d5 Pd4e5 Pd5e4 Ng1f3 Ng8f6 Bc1e3 Pe4f3 Pg2f3 Bf8c5 Qd1d8 Ke8d8 Bf1d3 Kd8e8 R",
+    "legal_positions": [
+      "h1"
+    ],
+    "piece": "R",
+    "tag": "OneOfTwoRooksHasALegalMove"
+  },
+  {
+    "id": 163,
+    "board_state": "Pd2d4 Pe7e5 Pe2e4 Pd7d5 Pd4e5 Pd5e4 Ng1f3 Ng8f6 Bc1e3 Pe4f3 Pg2f3 Bf8c5 Qd1d8 Ke8d8 Bf1d3 Kd8e8 Rh1",
+    "legal_positions": [
+      "g1",
+      "f1"
+    ],
+    "piece": "Rh1",
+    "tag": "OneOfTwoRooksHasALegalMove"
+  },
+  {
+    "id": 164,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 Rb7b8 Bc5b6 R",
+    "legal_positions": [
+      "b8",
+      "d7"
+    ],
+    "piece": "R",
+    "tag": "AfterPromotionToRook"
+  },
+  {
+    "id": 165,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 Rb7b8 Bc5b6 Rb8",
+    "legal_positions": [
+      "d8",
+      "c8",
+      "a8",
+      "b7",
+      "b6"
+    ],
+    "piece": "Rb8",
+    "tag": "AfterPromotionToRook"
+  },
+  {
+    "id": 166,
+    "board_state": "Pc2c4 Pg7g5 Pb2b3 Pd7d5 Ng1f3 N",
+    "legal_positions": [
+      "g8",
+      "b8"
+    ],
+    "piece": "N",
+    "tag": "KnightAsBlack"
+  },
+  {
+    "id": 167,
+    "board_state": "Pc2c4 Pg7g5 Pb2b3 Pd7d5 Ng1f3 Ng8",
+    "legal_positions": [
+      "h6",
+      "f6"
+    ],
+    "piece": "Ng8",
+    "tag": "KnightAsBlack"
+  },
+  {
+    "id": 168,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nf3d2 N",
+    "legal_positions": [
+      "b8"
+    ],
+    "piece": "N",
+    "tag": "KnightAsBlack"
+  },
+  {
+    "id": 169,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nf3d2 Nb8",
+    "legal_positions": [
+      "c6",
+      "a6"
+    ],
+    "piece": "Nb8",
+    "tag": "KnightAsBlack"
+  },
+  {
+    "id": 170,
+    "board_state": "Ph2h3 Pg7g5 Pd2d3 Pc7c5 Qd1d2 Ng8h6 N",
+    "legal_positions": [
+      "g1",
+      "b1"
+    ],
+    "piece": "N",
+    "tag": "KnightUncommonOpening"
+  },
+  {
+    "id": 171,
+    "board_state": "Ph2h3 Pg7g5 Pd2d3 Pc7c5 Qd1d2 Ng8h6 Ng1",
+    "legal_positions": [
+      "f3"
+    ],
+    "piece": "Ng1",
+    "tag": "KnightUncommonOpening"
+  },
+  {
+    "id": 172,
+    "board_state": "Pe2e4 Pe7e5 Bf1e2 Bf8a3 Pb2b3 Ng8f6 N",
+    "legal_positions": [
+      "g1",
+      "b1"
+    ],
+    "piece": "N",
+    "tag": "KnightUncommonOpening"
+  },
+  {
+    "id": 173,
+    "board_state": "Pe2e4 Pe7e5 Bf1e2 Bf8a3 Pb2b3 Ng8f6 Ng1",
+    "legal_positions": [
+      "h3",
+      "f3"
+    ],
+    "piece": "Ng1",
+    "tag": "KnightUncommonOpening"
+  },
+  {
+    "id": 174,
+    "board_state": "Pe2e4 Pd7d5 Ph2h3 Bc8f5 Pe4f5 Qd8d7 N",
+    "legal_positions": [
+      "g1",
+      "b1"
+    ],
+    "piece": "N",
+    "tag": "KnightUncommonOpening"
+  },
+  {
+    "id": 175,
+    "board_state": "Pe2e4 Pd7d5 Ph2h3 Bc8f5 Pe4f5 Qd8d7 Ng1",
+    "legal_positions": [
+      "f3",
+      "e2"
+    ],
+    "piece": "Ng1",
+    "tag": "KnightUncommonOpening"
+  },
+  {
+    "id": 176,
+    "board_state": "Pg2g4 Pf7f6 Pe2e3 Nb8a6 N",
+    "legal_positions": [
+      "g1",
+      "b1"
+    ],
+    "piece": "N",
+    "tag": "KnightUncommonOpening"
+  },
+  {
+    "id": 177,
+    "board_state": "Pg2g4 Pf7f6 Pe2e3 Nb8a6 Ng1",
+    "legal_positions": [
+      "h3",
+      "f3",
+      "e2"
+    ],
+    "piece": "Ng1",
+    "tag": "KnightUncommonOpening"
+  },
+  {
+    "id": 178,
+    "board_state": "Pd2d4 Pe7e5 Pe2e4 Pd7d5 Pd4e5 Pd5e4 Ng1f3 Ng8f6 Bc1e3 Pe4f3 Pg2f3 Bf8c5 Qd1d8 Ke8d8 Bf1d3 Kd8e8 N",
+    "legal_positions": [
+      "b1"
+    ],
+    "piece": "N",
+    "tag": "OneKnightOfOnePlayer"
+  },
+  {
+    "id": 179,
+    "board_state": "Pd2d4 Pe7e5 Pe2e4 Pd7d5 Pd4e5 Pd5e4 Ng1f3 Ng8f6 Bc1e3 Pe4f3 Pg2f3 Bf8c5 Qd1d8 Ke8d8 Bf1d3 Kd8e8 Nb1",
+    "legal_positions": [
+      "c3",
+      "a3",
+      "d2"
+    ],
+    "piece": "Nb1",
+    "tag": "OneKnightOfOnePlayer"
+  },
+  {
+    "id": 180,
+    "board_state": "Pd2d3 Pd7d5 Bc1f4 Ng8f6 Ng1f3 Pc7c5 Nb1c3 Pc5c4 Pd3c4 Bc8g4 Nc3d5 Nf6d5 Nf3e5 Nd5c3 Pb2c3 Qd8d1 Ke1d1 Pe7e6 Bf4e3 Nb8d7 Pc4c5 Bg4h5 Pc3c4 Ra8c8 Pg2g3 Bh5g4 N",
+    "legal_positions": [
+      "e5"
+    ],
+    "piece": "N",
+    "tag": "OneKnightOfOnePlayer"
+  },
+  {
+    "id": 181,
+    "board_state": "Pd2d3 Pd7d5 Bc1f4 Ng8f6 Ng1f3 Pc7c5 Nb1c3 Pc5c4 Pd3c4 Bc8g4 Nc3d5 Nf6d5 Nf3e5 Nd5c3 Pb2c3 Qd8d1 Ke1d1 Pe7e6 Bf4e3 Nb8d7 Pc4c5 Bg4h5 Pc3c4 Ra8c8 Pg2g3 Bh5g4 Ne5",
+    "legal_positions": [
+      "f7",
+      "d7",
+      "g6",
+      "c6",
+      "g4",
+      "f3",
+      "d3"
+    ],
+    "piece": "Ne5",
+    "tag": "OneKnightOfOnePlayer"
+  },
+  {
+    "id": 182,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nb1d2 Nb8c6 Nf3d4 Nc6b4 Ke1g1 Ke8c8 N",
+    "legal_positions": [
+      "d4",
+      "d2"
+    ],
+    "piece": "N",
+    "tag": "TwoKnightsOfOnePlayer"
+  },
+  {
+    "id": 183,
+    "board_state": "Pd2d3 Pe7e6 Pe2e3 Pd7d5 Bf1e2 Ng8f6 Bc1d2 Qd8d6 Pc2c4 Pd5c4 Pd3c4 Nf6d5 Pc4d5 Qd6d5 Ng1f3 Bf8b4 Bd2b4 Bc8d7 Nb1d2 Nb8c6 Nf3d4 Nc6b4 Ke1g1 Ke8c8 Nd4",
+    "legal_positions": [
+      "e6",
+      "c6",
+      "f5",
+      "b5",
+      "f3",
+      "b3",
+      "c2"
+    ],
+    "piece": "Nd4",
+    "tag": "TwoKnightsOfOnePlayer"
+  },
+  {
+    "id": 184,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 Pe2d3 Ne7c6 Nf3g1 Ph7h6 Ng1e2 Pf5f4 Be3f4 Pe5f4 Pg2g3 Nc6b4 Pg3f4 Pg7g5 Rh1g1 Qd8d7 Pd3d4 Bf8e7 N",
+    "legal_positions": [
+      "e2",
+      "d2"
+    ],
+    "piece": "N",
+    "tag": "TwoKnightsOfOnePlayer"
+  },
+  {
+    "id": 185,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 Pe2d3 Ne7c6 Nf3g1 Ph7h6 Ng1e2 Pf5f4 Be3f4 Pe5f4 Pg2g3 Nc6b4 Pg3f4 Pg7g5 Rh1g1 Qd8d7 Pd3d4 Bf8e7 Ne2",
+    "legal_positions": [
+      "g3"
+    ],
+    "piece": "Ne2",
+    "tag": "TwoKnightsOfOnePlayer"
+  },
+  {
+    "id": 186,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 Pe2d3 Ne7c6 Nf3g1 Ph7h6 Ng1e2 Pf5f4 Be3f4 Pe5f4 Pg2g3 Nc6b4 Pg3f4 Pg7g5 Rh1g1 Qd8d7 Pd3d4 Bf8e7 Pf4f5 Pc7c5 Pd4c5 Qd7b5 Pf5f6 Be7d8 Nd2e4 Pd6c5 Pf6f7 Ke8e7 Nf7f8 Rh8h7 N",
+    "legal_positions": [
+      "f8",
+      "e4",
+      "e2"
+    ],
+    "piece": "N",
+    "tag": "ThreeKnightsOfOnePlayer"
+  },
+  {
+    "id": 187,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 Pe2d3 Ne7c6 Nf3g1 Ph7h6 Ng1e2 Pf5f4 Be3f4 Pe5f4 Pg2g3 Nc6b4 Pg3f4 Pg7g5 Rh1g1 Qd8d7 Pd3d4 Bf8e7 Pf4f5 Pc7c5 Pd4c5 Qd7b5 Pf5f6 Be7d8 Nd2e4 Pd6c5 Pf6f7 Ke8e7 Nf7f8 Rh8h7 Nf8",
+    "legal_positions": [
+      "h7",
+      "d7",
+      "g6",
+      "e6"
+    ],
+    "piece": "Nf8",
+    "tag": "ThreeKnightsOfOnePlayer"
+  },
+  {
+    "id": 188,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 Pe2e4 Pd5e4 Nf3d4 Nc6e5 Pc4c5 Pb7b6 Pc5b6 Pc7c6 Qc2e4 Qd8d6 Pb6b7 Bc8e6 Nd4c6 Ra8a7 Nb7b8 Nf5h6 N",
+    "legal_positions": [
+      "b8",
+      "c6",
+      "b1"
+    ],
+    "piece": "N",
+    "tag": "ThreeKnightsOfOnePlayer"
+  },
+  {
+    "id": 189,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ng1f3 Ne7g6 Qb3c2 Pf5f4 Ra1c1 Ng6e7 Pd3d4 Pe5d4 Be3d4 Ne7f5 Pc3c4 Pa7a5 Nd2b1 Pd6d5 Bd4c3 Bf8b4 Pe2e4 Pd5e4 Nf3d4 Nc6e5 Pc4c5 Pb7b6 Pc5b6 Pc7c6 Qc2e4 Qd8d6 Pb6b7 Bc8e6 Nd4c6 Ra8a7 Nb7b8 Nf5h6 Nb8",
+    "legal_positions": [
+      "d7",
+      "a6"
+    ],
+    "piece": "Nb8",
+    "tag": "ThreeKnightsOfOnePlayer"
+  },
+  {
+    "id": 190,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 Pe2d3 Ne7c6 Nf3g1 Ph7h6 Ng1e2 Pf5f4 Be3f4 Pe5f4 Pg2g3 Nc6b4 Pg3f4 Pg7g5 Rh1g1 Qd8d7 Pd3d4 Bf8e7 Rg1g3 Pg5g4 Bf1h3 Pg4h3 Rd1g1 Pb7b6 N",
+    "legal_positions": [
+      "d2"
+    ],
+    "piece": "N",
+    "tag": "OneOfTwoKnightsHasALegalMove"
+  },
+  {
+    "id": 191,
+    "board_state": "Pd2d3 Pe7e5 Bc1e3 Pf7f5 Pc2c3 Pd7d6 Nb1d2 Ng8e7 Qd1b3 Nb8c6 Ke1c1 Nc6b4 Ng1f3 Nb4d3 Pe2d3 Ne7c6 Nf3g1 Ph7h6 Ng1e2 Pf5f4 Be3f4 Pe5f4 Pg2g3 Nc6b4 Pg3f4 Pg7g5 Rh1g1 Qd8d7 Pd3d4 Bf8e7 Rg1g3 Pg5g4 Bf1h3 Pg4h3 Rd1g1 Pb7b6 Nd2",
+    "legal_positions": [
+      "e4",
+      "c4",
+      "f3",
+      "f1",
+      "b1"
+    ],
+    "piece": "Nd2",
+    "tag": "OneOfTwoKnightsHasALegalMove"
+  },
+  {
+    "id": 192,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 Nb7b8 Bc5b6 N",
+    "legal_positions": [
+      "b8"
+    ],
+    "piece": "N",
+    "tag": "AfterPromotionToKnight"
+  },
+  {
+    "id": 193,
+    "board_state": "Pg2g3 Pc7c5 Bf1g2 Nb8c6 Pc2c4 Pg7g6 Nb1c3 Bf8g7 Ra1b1 Ra8b8 Pe2e3 Ng8f6 Ng1e2 Pa7a6 Ke1g1 Pd7d6 Pd2d3 Pb7b5 Pa2a4 Bc8d7 Pa4b5 Pa6b5 Nc3b5 Ph7h5 Pb2b3 Ph5h4 Pd3d4 Qd8c8 Bc1a3 Ph4g3 Ne2g3 Rh8h4 Pd4c5 Bd7h3 Bg2h1 Bh3f1 Qd1f1 Ke8f8 Pc5d6 Nf6g4 Ph2h3 Ng4e5 Nb5c3 Qc8d7 Bh1g2 Kf8g8 Nc3b5 Qd7e6 Rb1d1 Pe7d6 Ng3e4 Qe6f5 Pf2f4 Rh4h3 Rd1e1 Qf5g4 Pf4e5 Nc6e5 Qf1f4 Ne5f3 Kg1f1 Qg4f4 Pe3f4 Nf3h2 Kf1g1 Rb8b5 Ne4f6 Bg7f6 Pc4b5 Bf6d4 Kg1h1 Rh3h7 Re1e8 Kg8g7 Bg2c6 Rh7h3 Re8e4 Nh2g4 Kh1g2 Rh3h2 Kg2f3 Rh2f2 Kf3g3 Bd4c3 Kg3g4 Pf7f5 Kg4g3 Rf2d2 Re4a4 Pg6g5 Ra4a7 Kg7g6 Ba3c1 Pg5f4 Kg3f3 Rd2d1 Bc1f4 Bc3b4 Bc6e8 Kg6f6 Pb5b6 Rd1d3 Kf3e2 Rd3b3 Ra7f7 Kf6g6 Pb6b7 Bb4c5 Rf7d7 Kg6f6 Nb7b8 Bc5b6 Nb8",
+    "legal_positions": [
+      "c6",
+      "a6"
+    ],
+    "piece": "Nb8",
+    "tag": "AfterPromotionToKnight"
+  }
+]

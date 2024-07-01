@@ -1,0 +1,6 @@
+Statistic,White (stockfish),Black (V64)
+Average Centipawn Loss,1.4101253236929236,9.760798812848657
+Variance of Centipawn Loss,1.0807278504860858,84.60095281530508
+Standard Deviation of Centipawn Loss,1.0395806127886793,9.197877625588692
+Maximum Centipawn Loss,4.375,88.3076923076923
+Minimum Centipawn Loss,0.0,1.5
